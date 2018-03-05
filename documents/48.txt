@@ -1,0 +1,225 @@
+
+
+
+
+
+
+
+
+
+
+Pension Information | CUPFA
+ 
+ 
+img.wp-smiley,img.emoji{display:inline !important;border:none !important;box-shadow:none !important;height:1em !important;width:1em !important;margin:0
+.07em !important;vertical-align:-0.1em !important;background:none !important;padding:0
+!important}
+ 
+ 
+ 
+var gadwpUAEventsData={"options":{"event_tracking":"1","event_downloads":"zip|mp3*|mpe*g|pdf|docx*|pptx*|xlsx*|rar*","event_bouncerate":0,"aff_tracking":1,"event_affiliates":"\/out\/","hash_tracking":"1","root_domain":"cupfa.org","event_timeout":100,"event_precision":0,"event_formsubmit":1,"ga_pagescrolldepth_tracking":1}};
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+#site-title,#site-description{position:absolute;left:-9000px}
+ 
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create','UA-111305553-1','auto');ga('send','pageview');
+ 
+Skip to content
+Professional Development
+Deadlines
+Teaching Application Form
+News
+Quick Links:
+Pension Information
+All of the following documents are uploaded for information purposes only and do not represent professional financial advice.  Members are advised to obtain professional financial advice before making financial decisions about retirement. CUPFA is not responsible for any financial decision that you make.
+1.  
+PENSION PLAN for Part-Time Faculty at Concordia University
+
+
+This document has been prepared by CUPFA and is revised as of May 2017.  It explains in good detail how the Pension Plan for Employees of Concordia University works for part-time faculty.   Revisions include new information on contribution rates, and new sample calculations.  You are also encouraged to read the detailed file on Retirement Planning that is under a separate tab on this website.
+
+
+» 
+Download: HOW THE PENSION PLAN WORKS FOR PART-TIME FACULTY AT CONCORDIA UNIVERSITY
+2.  University Information  
+
+If you are not sure whether you are a member of the pension plan, just check your pay stub.  If the employer is making contributions to the pension plan for you then you are a member.
+
+»
+ 
+ 
+Download Brief Summary of Changes to the Plan
+3.  Comparing RRIF to Annuity – RetirementAdvisor.ca
+
+This is PDF copy of an article explaining the differences between RRIFs and Annuities found on the RetirementAdvisor.ca website.  This article is relevant when considering how to convert your RRSP into a flow of income for your retirement.   This article is uploaded for information purposes only.
+
+»
+ 
+ 
+Download
+4.  Over to You – The Economist
+
+This is a reprint of an article that appeared in a special edition of The Economist magazine on pensions (7 April 2011).   This article discusses defined benefit vs defined contribution pension plans.
+
+»
+ 
+ 
+Download 
+Last Updated on November 3, 2017.
+« 
+Back to Top
+Home
+About
+Mandate & History
+Executive 2017-20
+Committees
+Staff
+News & Events
+News
+Events
+Videos
+Media Coverage – Negotiations
+Collective Agreement
+Pensions and Retirement
+Pension Information
+Retirement Planning
+Professional Development
+About PD
+CUPFA Grants
+Travel and Expenses
+Grant Reports
+Small Claims
+PD – FAQ
+Office of Research
+Forms
+Publications
+Newsletters
+Survival Guide
+Commandments
+Multi-Section Courses
+Concordia Resources
+FAQ
+Contact Us
+
+
+Search for:
+
+
+
+
+Recent Posts
+TOWN HALL 2, January 24, 2018
+Horaire des fêtes / Holiday hours
+Happy Holidays! Joyeuses Fêtes!
+Feminism Matters
+CUPFA’s First Holiday Dinner – December 22
+Post Archives
+ 
+Post Archives
+
+
+Select Month
+ January 2018
+ December 2017
+ November 2017
+ October 2017
+ September 2017
+ August 2017
+ July 2017
+ June 2017
+ May 2017
+ April 2017
+ March 2017
+ February 2017
+ January 2017
+ December 2016
+ November 2016
+ October 2016
+ September 2016
+ August 2016
+ June 2016
+ May 2016
+ April 2016
+ March 2016
+ February 2016
+ January 2016
+ December 2015
+ November 2015
+ October 2015
+ September 2015
+ August 2015
+ June 2015
+ May 2015
+ March 2015
+ February 2015
+ November 2014
+ October 2014
+ September 2014
+ April 2014
+ March 2014
+ February 2014
+ January 2014
+ November 2013
+ October 2013
+ September 2013
+ August 2013
+ July 2013
+ May 2013
+ April 2013
+ March 2013
+ February 2013
+ January 2013
+ December 2012
+ November 2012
+ October 2012
+ September 2012
+ May 2012
+ April 2012
+ March 2012
+ February 2012
+Contact Info
+Office Hours
+
+Monday – Thursday
+
+9 am to 4 pm
+2150 Bishop, S-K-310
+
+Montreal, Quebec  H3G 1M8
+Telephone
+
+514-848-2424-3691
+Facsimile
+
+514-848-3648
+
+
+
+
+
+
+
+Copyright © CUPFA. All Rights Reserved.
+ 
+jQuery(document).ready(function($){jQuery('#dc_jqaccordion_widget-2-item .menu').dcAccordion({eventType:'click',hoverDelay:0,menuClose:false,autoClose:true,saveState:true,autoExpand:true,classExpand:'current-menu-item',classDisable:'',showCount:false,disableLink:true,cookie:'dc_jqaccordion_widget-2',speed:'fast'});});
+ 
+jQuery(document).ready(function($){$("a[rel*=lightbox]").colorbox({speed:350,initialWidth:"300",initialHeight:"100",maxWidth:"75%",opacity:0.8,loop:false,scrolling:false,escKey:false,arrowKey:false,top:false,right:false,bottom:false,left:false});});
+ 
+var SlimStatParams={"ajaxurl":"http:\/\/www.cupfa.org\/wp-admin\/admin-ajax.php","extensions_to_track":"pdf,doc,xls,zip","outbound_classes_rel_href_to_not_track":"noslimstat,ab-item","ci":"YTozOntzOjEyOiJjb250ZW50X3R5cGUiO3M6NDoicGFnZSI7czoxMDoiY29udGVudF9pZCI7aToxMTg5O3M6NjoiYXV0aG9yIjtzOjU6InNhbGx5Ijt9.163f61b5d78a7e58b1f35fa62e587534"};
+ 
+ 
+ 
+ 
+
+
+>

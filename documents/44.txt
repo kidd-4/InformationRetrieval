@@ -1,0 +1,262 @@
+
+
+
+
+
+
+
+
+
+
+Travel and Expenses | CUPFA
+ 
+ 
+img.wp-smiley,img.emoji{display:inline !important;border:none !important;box-shadow:none !important;height:1em !important;width:1em !important;margin:0
+.07em !important;vertical-align:-0.1em !important;background:none !important;padding:0
+!important}
+ 
+ 
+ 
+var gadwpUAEventsData={"options":{"event_tracking":"1","event_downloads":"zip|mp3*|mpe*g|pdf|docx*|pptx*|xlsx*|rar*","event_bouncerate":0,"aff_tracking":1,"event_affiliates":"\/out\/","hash_tracking":"1","root_domain":"cupfa.org","event_timeout":100,"event_precision":0,"event_formsubmit":1,"ga_pagescrolldepth_tracking":1}};
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+#site-title,#site-description{position:absolute;left:-9000px}
+ 
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');ga('create','UA-111305553-1','auto');ga('send','pageview');
+ 
+Skip to content
+Professional Development
+Deadlines
+Teaching Application Form
+News
+Quick Links:
+Travel and Expenses
+University Policy for Travel and Other Allowable Expenses
+Two copies of a “Grant Acceptance form” will be enclosed with a letter informing you that you have been awarded a PD grant. Please read this form carefully and keep a copy on-hand for future reference. Don’t forget to sign one copy and return it to CUPFA within 30 days of receiving your grant notification.
+All of your expenses must be in accordance with University policy in order to be eligible for reimbursement. If this policy is not followed Financial Services will not reimburse you. Please read the Policy for Travel and other Allowable Expenses carefully  
+Policy for travel and other allowable expenses
+Paying Professionals
+
+NEVER pay someone directly; they must be paid through the University. If hiring an individual or an organization (e.g., technicians, musicians, studio rental), you must complete a cheque requisition form and the University will pay the individual/organization. If you make payment yourself you will not be reimbursed. Contact your budget officer to receive cheque requisition forms.
+Paying Concordia Students 
+ If you received a PD Grant and are hiring Concordia students you must fill out a RA contract and the student(s) must fill out a TRAC Union membership form. They will still be paid directly from the CUPFA PDA account. Contact your Budget Officer for more information.
+ 
+ Steps for paying a Concordia Student
+ 
+ Make sure you read the TRAC Contract Instructions carefully
+ 
+ 1) The Concordia student must fill out a TRAC membership form
+ 2) Fill out the contract, sign it and have the Concordia student/Research Assistant sign it
+ 3) Return the form to your budget office along with a void cheque for Payroll (so the money can be deposited directly into the student’s account.)
+ 4) Your budget officer inputs the CUPFA budget codes
+ 5) The completed contract and void cheque will be forwarded to payroll
+ 6) The TRAC membership form must be forwarded to TRAC
+ 
+ 
+Please download all the forms
+ 
+Research Grant Employee Notice of Hire.
+
+
+TRAC Contract RA Instructions
+ 
+Appendix B.Trac Union Membership form
+ TRAC Contract (Excel or Numbers)
+Please note that these forms can be downloaded from the HR website:
+
+
+http://www.concordia.ca/hr.html
+Expenses over $1000
+
+The purchase of supplies or miscellaneous expenses in excess of $1000.00 must be done through Purchasing Services.
+TRAVEL EXPENSES
+If you have paid for your airline ticket yourself make sure you save your BOARDING PASSES and submit them with your receipt and expense report. Otherwise the University may not reimburse you.
+Concordia University Travel Voucher
+
+Members should consider taking advantage of University travel vouchers to pay for an airline ticket in advance.  Before you book your trip, contact your Budget Officer and they will give you an account code that you must provide when you book your ticket with one of Concordia University’s officially recognized travel agencies.  A completed travel voucher must then be sent to your Budget Officer within 24 hours  of booking the trip.  The name of your Budget Officer appears at the bottom of the contract you signed upon acceptance of your grant.  If you cannot find this important document, please call CUPFA and Karen or Manon will provide the information for you.
+
+
+Download Travel Voucher – pdf
+The following are the University’s preferred travel agencies:
+Voyages Foreman Ideal
+
+514-342-9554
+
+
+www.groupeideal.ca
+Norko International Travel
+
+514-871-8888
+
+
+www.norkotravel.com
+Uniglobe Voyages Lexus
+
+514-397-9221, ext. 230 or 242
+
+
+www.voyageslexus.com
+Travel arrangements may be made through any other travel agency for a lower or equal fare but only after obtaining a written quote from one of the University’s official travel agencies. This quote must be included with the expense report at the time of submission for reimbursement.
+Note:
+ if travel by train or air is being claimed, the original boarding pass is required.
+The university will accept alternate travel arrangements that the claimant made abroad.
+Flight-cancellation insurance and health insurance are allowable expenditures. Receipts for such expenses should be kept and indicated on the claim form.
+Vehicle rental may only be claimed if it is less expensive than economy airfare or if the destination is inaccessible by air or train.
+Forms most commonly used: Expense reports, travel voucher.
+« 
+Back to Top
+Home
+About
+Mandate & History
+Executive 2017-20
+Committees
+Staff
+News & Events
+News
+Events
+Videos
+Media Coverage – Negotiations
+Collective Agreement
+Pensions and Retirement
+Pension Information
+Retirement Planning
+Professional Development
+About PD
+CUPFA Grants
+Travel and Expenses
+Grant Reports
+Small Claims
+PD – FAQ
+Office of Research
+Forms
+Publications
+Newsletters
+Survival Guide
+Commandments
+Multi-Section Courses
+Concordia Resources
+FAQ
+Contact Us
+
+
+Search for:
+
+
+
+
+Recent Posts
+TOWN HALL 2, January 24, 2018
+Horaire des fêtes / Holiday hours
+Happy Holidays! Joyeuses Fêtes!
+Feminism Matters
+CUPFA’s First Holiday Dinner – December 22
+Post Archives
+ 
+Post Archives
+
+
+Select Month
+ January 2018
+ December 2017
+ November 2017
+ October 2017
+ September 2017
+ August 2017
+ July 2017
+ June 2017
+ May 2017
+ April 2017
+ March 2017
+ February 2017
+ January 2017
+ December 2016
+ November 2016
+ October 2016
+ September 2016
+ August 2016
+ June 2016
+ May 2016
+ April 2016
+ March 2016
+ February 2016
+ January 2016
+ December 2015
+ November 2015
+ October 2015
+ September 2015
+ August 2015
+ June 2015
+ May 2015
+ March 2015
+ February 2015
+ November 2014
+ October 2014
+ September 2014
+ April 2014
+ March 2014
+ February 2014
+ January 2014
+ November 2013
+ October 2013
+ September 2013
+ August 2013
+ July 2013
+ May 2013
+ April 2013
+ March 2013
+ February 2013
+ January 2013
+ December 2012
+ November 2012
+ October 2012
+ September 2012
+ May 2012
+ April 2012
+ March 2012
+ February 2012
+Contact Info
+Office Hours
+
+Monday – Thursday
+
+9 am to 4 pm
+2150 Bishop, S-K-310
+
+Montreal, Quebec  H3G 1M8
+Telephone
+
+514-848-2424-3691
+Facsimile
+
+514-848-3648
+
+
+
+
+
+
+
+Copyright © CUPFA. All Rights Reserved.
+ 
+jQuery(document).ready(function($){jQuery('#dc_jqaccordion_widget-2-item .menu').dcAccordion({eventType:'click',hoverDelay:0,menuClose:false,autoClose:true,saveState:true,autoExpand:true,classExpand:'current-menu-item',classDisable:'',showCount:false,disableLink:true,cookie:'dc_jqaccordion_widget-2',speed:'fast'});});
+ 
+jQuery(document).ready(function($){$("a[rel*=lightbox]").colorbox({speed:350,initialWidth:"300",initialHeight:"100",maxWidth:"75%",opacity:0.8,loop:false,scrolling:false,escKey:false,arrowKey:false,top:false,right:false,bottom:false,left:false});});
+ 
+var SlimStatParams={"ajaxurl":"http:\/\/www.cupfa.org\/wp-admin\/admin-ajax.php","extensions_to_track":"pdf,doc,xls,zip","outbound_classes_rel_href_to_not_track":"noslimstat,ab-item","ci":"YTozOntzOjEyOiJjb250ZW50X3R5cGUiO3M6NDoicGFnZSI7czoxMDoiY29udGVudF9pZCI7aToxNjU2O3M6NjoiYXV0aG9yIjtzOjU6InNhbGx5Ijt9.a62d9ea55e9ed0dc77d5494767fe00fe"};
+ 
+ 
+ 
+ 
+
+
+>

@@ -1,0 +1,730 @@
+
+
+
+
+
+
+
+
+
+
+Privacy Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ícone do logotipo do Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Entrar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Política de Privacidade Twitter
+
+
+
+
+
+
+
+
+Nossos Serviços conectam instantaneamente pessoas em qualquer lugar ao que é mais importante para elas. Por exemplo, qualquer usuário registrado do Twitter pode enviar um Tweet, que, por padrão, é público, e pode incluir uma mensagem de 140 caracteres ou menos e conteúdos como fotografias, vídeos e links para outros websites.
+
+
+
+
+
+
+
+
+
+
+O que você compartilha no Twitter pode ser visto em todo o mundo instantaneamente. Você é o que você Tweeta!
+
+
+
+
+
+
+
+
+Esta Política de Privacidade descreve como e quando coletamos, utilizamos e compartilhamos suas informações pelos nossos websites, SMS, APIs, notificações por e-mail, aplicativos, botões, incorporadores, anúncios e 
+nossos outros serviços cobertos
+ que vinculam a esta Política (coletivamente, os “Serviços”) e de nossos parceiros e outros terceiros. Por exemplo, você nos envia informações quando utiliza nossos Serviços na internet, via SMS, ou por um aplicativo, como o Twitter para Mac, o Twitter para Android, ou o TweetDeck. Ao utilizar qualquer um dos nossos Serviços, você concorda com a coleta, transferência, armazenamento, divulgação e utilização de suas informações, tal como descrito nesta Política de Privacidade. Isso inclui quaisquer informações que você decide fornecer que seja considerada sensível sob a lei aplicável.
+
+
+Quando esta política menciona “nós”, ela se refere ao administrador de suas informações sob esta Política. Se você reside nos Estados Unidos, suas informações são administradas pelo Twitter, Inc., com endereço na 1355 Market Street, Suite 900, San Francisco, CA 94103, EUA. Se você reside fora dos Estados Unidos, a controladora de dados responsável por suas informações é a Twitter International Company, uma empresa irlandesa com endereço registrado em One Cumberland Place, Fenian Street, Dublin 2 D02 AX07, Irlanda. Apesar disso, cabe apenas a você o controle e a responsabilidade pela publicação dos seus Tweets e outros conteúdos que você enviar por meio dos Serviços, conforme informado nos 
+Termos de Serviço
+ e nas 
+Regras do Twitter
+.
+
+
+
+
+Independentemente do seu país de residência, você nos autoriza a utilizar, transferir e armazenar suas informações nos Estados Unidos, na Irlanda e em qualquer outro país em que operamos. Em alguns desses países, a privacidade e as leis e regulamentos de proteção de dados com relação a quando as autoridades governamentais podem acessar os dados podem variar daquelas no país em que você vive. Saiba mais sobre nossas operações globais e transferência de dados 
+aqui
+.
+
+
+
+
+Se você tiver qualquer pergunta ou comentário sobre esta Política de Privacidade, envie uma solicitação pelo formulário disponível em 
+https://support.twitter.com/forms/privacy
+.
+
+
+
+
+
+
+
+
+
+
+
+
+Coleta e Utilização de Informações
+
+
+
+
+
+
+
+
+Coletamos e utilizamos suas informações descritas abaixo com o objetivo de fornecer, entender e melhorar nossos Serviços.
+
+
+
+
+
+
+
+
+Informações Básicas Das Contas:
+ Ao criar uma conta do Twitter, você deverá fornecer alguns dados pessoais, como seu nome, nome de usuário, senha de acesso, endereço de e-mail ou número de telefone. No Twitter, seu nome e nome de usuário são sempre disponibilizados publicamente, inclusive em sua página de perfil e em resultados de pesquisas, e você pode utilizar tanto seu nome real quanto um pseudônimo. Você pode criar e administrar várias contas do Twitter. Se você utilizar 
+Digits by Twitter
+, as informações de contato fornecidas para iniciar a sessão não serão públicas. Alguns dos recursos de nossos produtos, como pesquisar e visualizar perfis de usuário do Twitter em modo público ou assistir a uma transmissão do website do Periscope, não exigem que você crie uma conta.
+
+
+Informações de Contato:
+ Você poderá utilizar suas informações de contato, como seu endereço de e-mail ou número de telefone, para personalizar sua conta ou habilitar recursos da conta, por exemplo, para 
+verificação de acesso
+ ou 
+Twitter via SMS
+. Se você nos fornecer seu número de telefone, você concorda em receber mensagens de texto do Twitter nesse número. Poderemos utilizar suas informações de contato para enviar a você informações sobre nossos Serviços, oferecê-los a você, ajuda-lo a prevenir spams, fraudes ou abusos, e ajudar outras pessoas a encontrar sua conta, inclusive por meio de serviços de terceiros e aplicativos clientes. Você poderá utilizar suas configurações de notificações para 
+e-mail
+ e 
+celular
+ para controlar as notificações que recebe do Twitter. Você também poderá descontinuar o recebimento de notificações seguindo as instruções contidas na notificação ou as instruções em nosso website. Suas 
+Configurações de Privacidade
+ controlam se outras pessoas podem encontrá-lo no Twitter através do seu endereço de e-mail ou número de telefone.
+
+
+
+
+Informações Adicionais:
+ Você pode escolher nos fornecer mais informações para ajudar a melhorar e personalizar sua experiência em nossos Serviços. Por exemplo, você pode escolher enviar e sincronizar sua lista de contatos para que possamos ajudá-lo a encontrar e a se conectar com usuários que você conheça ou ajudar outros usuários a encontrar e se conectar com você. Posteriormente, poderemos personalizar o conteúdo, como fazer sugestões ou mostrar contas de usuários e Tweets a você e a outros usuários com base em seus contatos importados da lista de contatos. Você pode excluir os contatos importados da sua lista a qualquer momento visitando seu Painel de Contatos em 
+https://twitter.com/settings/contacts_dashboard
+. Caso você entre em contato conosco por e-mail, poderemos armazenar sua mensagem, endereço de e-mail e informações de contato com a finalidade de responder ao seu pedido. Se você conectar sua conta em nossos Serviços à sua conta em outro serviço, o outro serviço poderá nos enviar informações que você autorizar para uso nos Serviços. Essas informações podem permitir o cruzamento de publicações ou nos ajudar a melhorar os Serviços, e serão excluídas dos nossos Serviços dentro de algumas semanas após você desconectar sua conta no outro serviço da sua conta nos nossos Serviços.
+
+
+
+
+Tweets, Seguidores, Listas, Perfis e Outras Informações Públicas:
+ O Twitter é desenvolvido principalmente para auxiliá-lo a compartilhar informações com o mundo. A maior parte das informações que você fornece pelo Twitter são informações que você está solicitando que tornemos públicas. Você poderá nos fornecer informações de perfil, como uma curta biografia, sua localização, seu website, data de nascimento ou uma fotografia. Além disso, suas informações públicas incluem as mensagens que você Tweeta; os metadados fornecidos com os Tweets, tais como quando você enviou um Tweet e o aplicativo cliente utilizado para Tweetar; informações sobre sua conta, como hora de criação, idioma, país e fuso horário; e as listas que você cria, as pessoas que você segue, os Tweets que você Curtiu ou Retweetou, e as transmissões do Periscope em que você clica ou com as quais engaja (como ao comentar ou clicar no símbolo do coração) no Twitter. O Twitter divulga amplamente e de modo instantâneo suas informações públicas a diversos usuários, clientes e serviços, incluindo mecanismos de busca, desenvolvedores e editores que integram conteúdo do Twitter em seus serviços, além de instituições, como universidades, agências de saúde pública e empresas de pesquisa de mercado que analisam as informações para o estudo de tendências e percepções. Quando você compartilha informações ou conteúdos como fotografias, vídeos e links por meio dos Serviços, você deverá ponderar cuidadosamente o que está tornando público. Nós poderemos utilizar essas informações para fazer 
+inferências
+, como os temas nos quais você pode estar interessado. Como padrão, nós quase sempre tornamos públicas as informações que você nos fornece por meio dos Serviços do Twitter até o momento em que você as excluir, mas geralmente lhe disponibilizamos 
+configurações
+ ou recursos, como 
+Tweets protegidos
+, que permitem tornar suas informações mais privadas, caso assim deseje. Para determinados campos de informações de perfil, fornecemos 
+configurações de visibilidade
+ para selecionar quem pode ver essas informações em seu perfil. Se você nos fornecer informações de perfil e não ver uma configuração de visibilidade, essas informações serão públicas. Você pode alterar o 
+idioma
+ e o 
+fuso horário
+ vinculados à sua conta a qualquer momento utilizando as suas configurações de conta disponíveis em 
+https://twitter.com/settings/account
+.
+
+
+
+
+Mensagens Diretas e Comunicações Não Públicas:
+ Nós fornecemos certos recursos que permitem a você se comunicar de maneira mais privada. Por exemplo, você pode utilizar Mensagens Diretas para ter conversas privadas com outros usuários do Twitter. Quando você se comunica privadamente com outros usuários por meio dos Serviços, como ao enviar e receber Mensagens Diretas, nós iremos armazenar e processar suas comunicações e informações relacionadas a elas. Observe que se você interagir com conteúdo público do Twitter compartilhado com você por Mensagem Direta, por exemplo, ao curtir um Tweet compartilhado por Mensagem Direta, essas interações podem ser públicas. Quando você utiliza recursos como Mensagens Diretas para se comunicar de forma privada, lembre-se de que os destinatários podem copiar, armazenar e compartilhar novamente o conteúdo de suas comunicações.
+
+
+
+
+Informações de Localização:
+ O Twitter pode receber informações sobre sua localização. Por exemplo, você pode escolher publicar a sua localização nos seus Tweets e no seu perfil no Twitter. Você pode também nos indicar sua localização ao definir a localização dos Assuntos do Momento no Twitter.com. Também podemos determinar a localização utilizando outros dados do seu dispositivo, como informações precisas sobre localização do GPS, redes sem fio ou torres de operadoras de celular próximas ao seu dispositivo móvel, ou seu endereço IP. Poderemos utilizar e armazenar informações sobre a sua localização para fornecer funcionalidades dos nossos Serviços, tais como permitir a você Tweetar com a sua localização, para melhorar e personalizar os Serviços, por exemplo, com conteúdo mais relevante, como Assuntos do Momento locais, histórias, anúncios e sugestões de pessoas a seguir. Saiba mais sobre o uso de informações de localização 
+aqui
+, e como definir suas preferências de localização 
+aqui
+.
+
+
+
+
+Links:
+ O Twitter pode manter o registro da forma como você interage com links em nossos Serviços, incluindo as nossas notificações por e-mail, serviços de terceiros e aplicativos cliente, por meio do redirecionamento de cliques ou por outros meios. Fazemos isso para ajudar a melhorar os nossos Serviços, disponibilizar publicidade mais relevante e para poder compartilhar estatísticas agregadas de cliques, como o número de vezes que um determinado link foi clicado. Links, Tweets e comunicações não públicas, como Mensagens Diretas compartilhadas nos Serviços serão processadas e receberão links encurtados para um link 
+http://t.co
+.
+
+
+
+
+Cookies:
+ Da mesma forma que outros websites, nós utilizamos cookies e tecnologias similares para coletar dados adicionais de utilização do website e melhorar os nossos Serviços, mas não exigimos o uso de cookies para muitas partes dos nossos Serviços, tais como a pesquisa e a visualização de perfis de usuários públicos. Um cookie é um pequeno arquivo de dados que é transferido para o seu computador ou dispositivo móvel. O Twitter pode utilizar tanto cookies de sessão como cookies persistentes para compreender melhor de que forma você interage com os nossos Serviços, para monitorar a utilização agregada pelos nossos usuários e redirecionamento de tráfego web nos nossos Serviços, assim como para melhorar e personalizar nossos Serviços. Embora a maioria dos navegadores da Web aceite cookies automaticamente, as configurações de alguns navegadores podem ser modificadas para recusar cookies ou alertá-lo quando um site estiver tentando inserir um cookie em seu computador. No entanto, alguns Serviços podem não funcionar adequadamente se você desativar os cookies. Você pode controlar como personalizamos sua experiência e anúncios no Twitter usando suas configurações de Personalização e Dados, que estão disponíveis em 
+https://twitter.com/personalization
+, tenha você ou não uma conta no Twitter. Respondemos a essas configurações em vez da opção “Não Monitorar” do navegador, a qual já não damos mais suporte. Saiba mais sobre como utilizar cookies e tecnologias similares 
+aqui
+.
+
+
+
+
+Utilizando Nossos Serviços:
+ Nós recebemos informações quando você visualiza conteúdo em ou interage com nossos Serviços, mesmo se você não tiver criado uma conta (“Dados de Registro”). Por exemplo, quando você visita os nossos websites, conecta-se aos nossos Serviços, interage com as nossas notificações por e-mail, utiliza a sua conta para se autenticar em um website, aplicativo ou serviço de terceiros, ou quando visita um website, aplicativo ou serviço de terceiros que inclua conteúdo do Twitter, podemos receber informações sobre você. Estes Dados de Registro podem incluir seu endereço IP, tipo de navegador, sistema operacional, página da Web de origem, páginas da Web visitadas, localização, sua operadora de celular, informações de dispositivo (incluindo IDs de dispositivo e aplicativos), termos de pesquisa ou informações de cookies. Também recebemos Dados de Registro quando você clica, visualiza ou interage com links em nossos Serviços, incluindo links para aplicativos de terceiros, como ao escolher a instalação de outro aplicativo por meio do Twitter. Utilizamos os Dados de Registro para fazer inferências, como os temas nos quais você pode estar interessado, e para personalizar o conteúdo que mostramos a você, incluindo anúncios. Você pode ficar sabendo os interesses que inferimos sobre você a partir de sua atividade dentro e fora do Twitter em seus Dados do Twitter, disponíveis em 
+https://twitter.com/your_twitter_data
+. Nós mantemos os Dados de Registro conforme necessário para as finalidades descritas nesta Política de Privacidade. Nós excluiremos os Dados de Registro ou removeremos quaisquer identificadores comuns de conta, tais como seu nome de usuário, endereço IP completo, endereço de e-mail ou número de telefone, após o decurso de, no máximo, 18 meses, ou antes.
+
+
+
+
+Dados do Twitter para a Web:
+ O Twitter poderá personalizar os Serviços para você com base nas suas visitas a websites de terceiros que incluem conteúdo do Twitter, como linhas do tempo embutidas ou botões de Tweet. Quando você visualiza nosso conteúdo nesses websites, podemos receber Dados de Registro que incluem a página da Web que você visitou. Nunca associamos esse histórico de navegação da Web com seu nome, endereço de e-mail, número de telefone ou nome de usuário do Twitter, ou o excluímos, ofuscamos ou agregamos em até 30 dias. Podemos usar interesses ou outras informações que obtemos desses dados para melhorar nossos Serviços e personalizar o conteúdo para você, como sugestões de pessoas para seguir, publicidade e outros conteúdos nos quais você possa estar interessado. Você pode ver e controlar os interesses que usamos para personalizar sua experiência em Seus Dados do Twitter, disponível em 
+https://twitter.com/your_twitter_data
+. Você também pode controlar se acompanhamos suas visitas a websites com conteúdo do Twitter usando suas configurações de Personalização e Dados, disponíveis em 
+https://twitter.com/personalization
+.
+
+
+
+
+Publicidade:
+ Nossos Serviços são apoiados por publicidade. Nós podemos utilizar as informações descritas nesta Política de Privacidade para ajudar a tornar nossa publicidade mais relevante para você, para medir sua eficácia e para ajudar a reconhecer seus dispositivos para podermos veicular anúncios dentro e fora do Twitter. Não utilizamos conteúdo compartilhado de forma privada em Mensagens Diretas para oferecer anúncios. Nossa Política de Anúncios do Twitter também proíbe que anunciantes segmentem anúncios com base em categorias que nós consideramos 
+sensíveis
+, como raça, religião, política, vida sexual ou saúde. O Twitter adere aos Princípios de Auto-regulamentação da Digital Advertising Alliance Self-Regulatory Principles for Online Behavioral Advertising (também chamada de “publicidade baseada em interesses”). Se preferir, você pode optar por não visualizar anúncios baseados em interesses ao desmarcar Personalizar Anúncios nas suas definições de Personalização e Dados, disponíveis em 
+https://twitter.com/personalization
+. Não usaremos informações do navegador (e para usuários conectados, a conta) sobre as quais você desativar a publicidade com base em interesses e esse navegador ou conta não será elegível para receber anúncios com base em interesses do Twitter. Saiba mais sobre as opções de privacidade para anúncios baseados em interesses 
+aqui
+, e sobre como funcionam os anúncios em nossos Serviços 
+aqui
+.
+
+
+
+
+Terceiros e Afiliados:
+ Nós podemos receber informações sobre você de terceiros, como outros usuários do Twitter, parceiros (incluindo parceiros anunciantes), ou nossas 
+sociedades afiliadas
+. Por exemplo, outros usuários poderão compartilhar ou divulgar informações sobre você, como quando o mencionam, compartilham uma foto sua ou marcam você em uma foto. Suas 
+configurações de privacidade
+ controlam quem pode marcar você em uma foto. Nossos anunciantes parceiros e afiliados podem compartilhar informações conosco como ID do cookie do navegador, ID do dispositivo móvel ou hash criptográfico de um endereço de e-mail, assim como dados demográficos ou de interesse e conteúdo visualizado ou ações tomadas em um website ou aplicativo. Nossos anunciantes parceiros, especialmente nossos anunciantes, podem nos possibilitar a coleta de informações similares diretamente de seu website ou aplicativo ao integrar nossa tecnologia de publicidade.
+
+
+
+
+Personalização em Seus Dispositivos:
+ Quando você se conectar em sua conta com um navegador ou dispositivo, associaremos esse navegador ou dispositivo à sua conta para fins como autenticação e personalização. Dependendo das suas configurações, também podemos personalizar sua experiência em e com base em informações de outros navegadores ou dispositivos além dos que você utilizar para se registrar no Twitter. Por exemplo, se você visitar websites com conteúdo esportivo em seu laptop, poderemos mostrar anúncios relacionados a esportes no Twitter para Android. Você pode controlar se vinculamos sua conta a outros navegadores ou dispositivos que não os que você usa para se conectar ao Twitter (ou se você não está conectado à sua conta, se vinculamos o navegador ou dispositivo que você está usando atualmente a outros dispositivos) por meio de suas configurações de Personalização e Dados, disponível em 
+https://twitter.com/personalization
+.
+
+
+
+
+
+
+
+
+
+
+
+
+Compartilhamento e Divulgação de Informações
+
+
+
+
+
+
+
+
+O Twitter não divulga suas informações pessoais privadas, exceto nos termos limitados aqui descritos.
+
+
+
+
+
+
+
+
+Consentimento ou Orientação do Usuário:
+ O Twitter pode compartilhar ou divulgar suas informações de acordo com as suas orientações, por exemplo, quando você autoriza que um cliente Web ou aplicativo de terceiros acesse a sua conta, ou quando você nos orienta a compartilhar seu feedback com uma empresa. Quando você utiliza o Digits by Twitter para inscrição ou acesso a um aplicativo de terceiros, você está orientando o Twitter a compartilhar suas informações de contato, tais como seu número de telefone, com esse aplicativo. Se você compartilhou informações, como Mensagens Diretas ou Tweets protegidos, com outro usuário que acessa o Twitter utilizando um serviço de terceiros, lembre-se de que as informações poderão ser compartilhadas com o serviço de terceiros.
+
+
+Prestadores de Serviços:
+ O Twitter contrata prestadores de serviços para desempenhar funções e prestar serviços nos Estados Unidos, na Irlanda e em outros países. Por exemplo, o Twitter usa uma variedade de serviços de terceiros para nos ajudar a prestar os Serviços, tais como hospedagem de nossos vários blogs e wikis, assim como para melhor compreender e aperfeiçoar a utilização dos nossos Serviços, como o Google Analytics. O Twitter pode compartilhar suas informações pessoais privadas com os referidos prestadores de serviços, que estarão sujeitos a obrigações consistentes com esta Política de Privacidade e quaisquer outras medidas de confidencialidade e segurança cabíveis, e com a condição de que tais terceiros utilizem seus dados pessoais privados apenas em nome do Twitter e de acordo com as nossas instruções. O Twitter compartilha suas informações de pagamento, incluindo os números, data de vencimento e código de segurança de seus cartões de crédito e de débito, e endereço de cobrança com os prestadores de serviços de pagamento para processar pagamentos; prevenir, detectar e investigar fraudes ou outras atividades proibidas; facilitar a resolução de litígios, como estornos ou reembolsos; e para outros fins associados à aceitação de cartões de crédito ou débito.
+
+
+
+
+Lei e Dano:
+ Sem prejuízo de qualquer disposição em contrário nesta Política de Privacidade, o Twitter pode manter ou divulgar suas informações caso acredite que tal conduta é razoavelmente necessária para o cumprimento de leis, regulamentos, 
+procedimentos legais ou ato/ordem de autoridade governamental
+; para proteger a segurança de qualquer pessoa; resolver problemas relacionados a fraude, segurança ou problemas técnicos; ou proteger os direitos e a propriedade do Twitter e de nossos usuários. No entanto, nada nesta Política de Privacidade tem por objetivo limitar quaisquer direitos de defesa ou oposição que lhe assistam em relação a pedidos de divulgação de suas informações, incluindo os efetuados por entidades governamentais.
+
+
+
+
+Transferência do Negócio e Afiliados:
+ Na eventualidade de o Twitter estar envolvido em processo de falência, fusão, aquisição, reorganização ou de venda de ativos, suas informações poderão ser vendidas ou transferidas como parte desse processo. Esta Política de Privacidade regerá as suas informações conforme sejam transferidas à nova entidade. Também podemos divulgar informações sobre você às nossas 
+empresas afiliadas
+ a fim de ajudar a fornecer, compreender e melhorar nossos Serviços e os serviços de nossas afiliadas, incluindo a veiculação de anúncios.
+
+
+
+
+Informações públicas:
+ Podemos compartilhar ou divulgar suas informações públicas, como suas informações de perfil de usuário público, Tweets públicos, ou as pessoas que você segue ou que seguem você. Lembre-se: suas configurações de privacidade e visibilidade controlam se seus Tweets e determinadas informações de perfil são tornados públicos. Outras informações, como seu nome e nome de usuário, sempre são públicas no Twitter, a menos que você exclua sua conta, conforme descrito abaixo.
+
+
+
+
+Informações Não Pessoais, Agregadas ou no Nível do Dispositivo:
+ Podemos compartilhar ou divulgar informações não pessoais, agregadas ou em nível do dispositivo, como o número total de vezes que as pessoas engajaram com um Tweet, o número de usuários que clicaram em um link específico ou votaram em uma pesquisa em um Tweet (mesmo que apenas um o tenha feito), as características de um dispositivo ou seu usuário quando ele está disponível para receber um anúncio, os temas sobre os quais as pessoas escrevendo Tweets em um determinado local ou relatórios agregados ou em nível do dispositivo para anunciantes sobre os usuários que viram ou clicaram em seus anúncios. Essas informações não incluem o seu nome, endereço de e-mail, número de telefone, ou nome de usuário do Twitter. No entanto, podemos compartilhar informações não pessoais, agregadas ou no nível do dispositivo por meio de parcerias com entidades que podem usar dados em sua posse (incluindo dados que você pode ter lhes dado) para vincular seu nome, endereço de e-mail, ou outras informações pessoais às informações que nós fornecemos. Essas parcerias exigem que eles obtenham seu consentimento antes de fazê-lo. Você pode controlar se o Twitter compartilha suas informações nessas parcerias usando suas configurações de Personalização e Dados, disponíveis em 
+https://twitter.com/personalization
+.
+
+
+
+
+
+
+
+
+
+
+
+
+Acesso e Alteração de Suas Informações Pessoais
+
+
+
+
+
+
+Se você for um usuário registrado dos nossos Serviços, nós disponibilizamos ferramentas e 
+configurações de conta
+ para acessar, corrigir, excluir ou modificar as informações pessoais que você nos tenha fornecido e que se encontrem associadas à sua conta. Você pode baixar determinadas informações da conta, incluindo seus Tweets, seguindo as instruções 
+aqui
+. Você pode saber mais sobre os interesses que inferimos sobre você em 
+Seus Dados do Twitter
+ e solicitar acesso à informações adicionais 
+aqui
+.
+
+
+Você pode também excluir de modo permanente a sua conta do Twitter. Ao seguir as instruções 
+aqui
+, sua conta será desativada e então excluída. Quando for desativada, sua conta, incluindo seu nome, nome de usuário e perfil público, não será visível no Twitter.com. Até 30 dias após a desativação, será ainda possível restaurar a sua conta, caso ela tenha sido desativada acidental ou ilicitamente. Não havendo um contrato separado entre você e o Twitter estendendo o período de desativação, após 30 dias, iniciaremos o processo de exclusão de sua conta dos nossos sistemas, o qual pode levar até uma semana.
+
+
+
+
+Lembre-se de que os mecanismos de busca e outros terceiros ainda podem manter cópias de suas informações públicas, como as informações do seu perfil de usuário e Tweets públicos, mesmo após a exclusão das informações dos Serviços do Twitter ou a desativação de sua conta. Saiba mais 
+aqui
+.
+
+
+
+
+
+
+
+
+
+
+Nossas Operações Globais
+
+
+
+
+
+
+Para oferecer os Serviços a você, operamos globalmente. O Twitter, Inc. está em conformidade com os princípios do UE-EUA e Suíça-EUA Privacy Shield (os “Princípios”) com relação à coleta, uso, compartilhamento e retenção de informações pessoais da União Europeia e Suíça, conforme descrito em nossa 
+certificação do UE-EUA Privacy Shield
+ e certificação do Suíça-EUA Privacy Shield.
+
+
+Se você tiver uma reclamação com relação ao Privacy Shield, entre em contato 
+aqui
+. Como parte de nossa participação no Privacy Shield, se você tiver uma disputa com o Twitter sobre nossa adesão aos Princípios, buscaremos resolvê-la com nosso processo interno de disputa de reclamações, alternativamente pelo órgão de resolução de disputa independente 
+JAMS
+, e sob certas condições, 
+pelo processo de arbitragem do Privacy Shield
+.
+
+
+
+
+Os participantes do Privacy Shield estão sujeitos aos poderes de investigação e de execução da Comissão Federal de Comércio dos Estados Unidos e de outros órgãos estatutários autorizados. Sob certas circunstâncias, os participantes podem ser responsáveis pela transferência de informações pessoais da UE ou Suíça para terceiros fora da UE e da Suíça. Saiba mais sobre o UE-EUA Privacy Shield e o Suíça-EUA Privacy Shield 
+aqui
+.
+
+
+
+
+
+
+
+
+
+
+
+
+Alterações desta Política
+
+
+
+
+
+
+O Twitter poderá modificar esta Política de Privacidade de tempos em tempos. A versão mais atual da Política regerá a utilização que fazemos de suas informações e estará sempre disponível em 
+https://twitter.com/privacy
+. Se o Twitter efetuar alterações nesta Política que, a nosso critério exclusivo, forem substanciais, você será notificado por meio de uma atualização do 
+@Twitter
+ ou por um e-mail enviado ao endereço eletrônico associado à sua conta. Ao continuar a acessar ou utilizar os Serviços após a data de entrada em vigor de tal alteração, você aceita sujeitar-se à versão alterada da Política de Privacidade.
+
+
+Em vigor desde:
+ 18 de junho de 2017
+
+
+
+
+Arquivo das Políticas de Privacidade
+
+
+Sugestões ou perguntas sobre essa Política de Privacidade? Avise-nos entrando em contato conosco por 
+aqui
+ ou envie uma mensagem utilizando o endereço adequado a seguir.
+
+
+Para contas baseadas nos Estados Unidos:
+
+
+
+
+Twitter, Inc.
+
+Attn: Privacy Policy Inquiry
+
+1355 Market Street, Suite 900
+
+San Francisco, CA 94103
+
+
+Para contas fora dos Estados Unidos:
+
+
+
+
+Twitter International Company
+
+Attn: Privacy Policy Inquiry
+
+One Cumberland Place, Fenian Street
+
+Dublin 2, D02 AX07 IRELAND
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2018 Twitter, Inc.
+
+
+
+
+Cookies
+
+
+Privacidade
+
+
+Termos e Condições
+
+
+
+
+
+
+Idioma
+
+
+
+
+
+
+
+
+English
+
+
+
+
+
+
+Italian
+
+
+
+
+
+
+German
+
+
+
+
+
+
+Spanish
+
+
+
+
+
+
+French
+
+
+
+
+
+
+Japanese
+
+
+
+
+
+
+Korean
+
+
+
+
+
+
+Portuguese
+
+
+
+
+
+
+Russian
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>

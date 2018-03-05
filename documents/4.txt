@@ -1,0 +1,1967 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Cara menge-Tweet lewat SMS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Open menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Help Center
+
+
+
+
+
+
+
+
+
+
+Help topics
+
+
+
+
+
+
+
+                Using Twitter
+              
+
+
+
+
+
+
+
+                Managing your account
+              
+
+
+
+
+
+
+
+                Safety and security
+              
+
+
+
+
+
+
+
+                Rules and policies
+              
+
+
+
+
+
+
+
+
+
+
+Guides
+
+
+
+
+
+
+
+                Pertanyaan Umum pengguna baru
+              
+
+
+
+
+
+
+
+                Memulai
+              
+
+
+
+
+
+
+
+                Glosarium
+              
+
+
+
+
+
+
+Hubungi kami
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Buka Twitter
+
+
+
+
+
+
+Keluar
+
+
+
+
+
+
+
+        Sign in
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search this site
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        {
+  "@context": "http://schema.org",
+  "@type": "WPHeader",
+  "isPartOf": "https://help.twitter.com/id/using-twitter/twitter-sms"
+}
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            Twitter SMS support
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Using Twitter
+              
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Tweets
+                
+
+
+
+
+
+
+
+                    Adding content to your Tweet
+                
+
+
+
+
+
+
+
+                    Search and trends
+                
+
+
+
+
+
+
+
+                    Following and unfollowing
+                
+
+
+
+
+
+
+
+                    Blocking and muting
+                
+
+
+
+
+
+
+
+                    Direct Messages
+                
+
+
+
+
+
+
+
+                    Twitter on your device
+                
+
+
+
+
+
+
+
+                    Website and app integrations
+                
+
+
+
+
+
+
+
+
+
+
+
+              Managing your account
+              
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Login and password
+                
+
+
+
+
+
+
+
+                    Username, email, and phone
+                
+
+
+
+
+
+
+
+                    Account settings
+                
+
+
+
+
+
+
+
+                    Notifications
+                
+
+
+
+
+
+
+
+                    Verified accounts
+                
+
+
+
+
+
+
+
+                    Suspended accounts
+                
+
+
+
+
+
+
+
+                    Deactivate and reactivate accounts
+                
+
+
+
+
+
+
+
+
+
+
+
+              Safety and security
+              
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Security and hacked accounts
+                
+
+
+
+
+
+
+
+                    Privacy
+                
+
+
+
+
+
+
+
+                    Spam and fake accounts
+                
+
+
+
+
+
+
+
+                    Sensitive content
+                
+
+
+
+
+
+
+
+                    Abuse
+                
+
+
+
+
+
+
+
+
+
+
+
+              Rules and policies
+              
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Twitter Rules and policies
+                
+
+
+
+
+
+
+
+                    General guidelines and policies
+                
+
+
+
+
+
+
+
+                    Law enforcement guidelines
+                
+
+
+
+
+
+
+
+                    Research and experiments
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+      {
+  "@context": "http://schema.org",
+  "@type": "WPSideBar",
+  "isPartOf": "https://help.twitter.com/id/using-twitter/twitter-sms"
+}
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Pusat Bantuan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Twitter on your device
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cara menge-Tweet lewat SMS
+
+
+
+
+
+
+
+          {
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": {
+    "@type": "ItemList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "name": "Pusat Bantuan",
+        "position": "1",
+        "url": "/content/help-twitter/id"
+      },
+      {
+        "@type": "ListItem",
+        "name": "Twitter on your device",
+        "position": "3",
+        "url": "/content/help-twitter/id/using-twitter#twitter-on-your-device"
+      },
+      {
+        "@type": "ListItem",
+        "name": "Cara menge-Tweet lewat SMS",
+        "position": "4",
+        "url": "/content/help-twitter/id/using-twitter/twitter-sms"
+      }
+    ]
+  }
+}
+      
+
+
+
+
+
+
+
+
+Cara menge-Tweet lewat SMS
+
+
+
+
+Jika Anda 
+menambahkan nomor ponsel ke akun Twitter
+, Anda dapat menge-Tweet dengan mengirim SMS ke kode pendek atau kode panjang.
+
+
+Saat mengirim SMS ke salah satu nomor ponsel kode pendek maupun kode panjang ini, pesan akan diposting sebagai Tweet di profil Twitter (dan akan dikirim ke semua pengikut).
+
+
+
+
+Ada perbedaan utama antara menggunakan Twitter lewat kode pendek dengan kode panjang:
+
+
+
+
+Menggunakan kode pendek
+
+
+
+
+Menggunakan Twitter dengan mengirim SMS ke kode pendek berarti Anda dapat melakukan tindakan dan mengakses konten seperti yang Anda lakukan melalui web atau di perangkat cerdas.
+
+
+Bila menggunakan kode pendek dengan Akun Twitter, Anda dapat memposting Tweet, menerima notifikasi, dan mendaftar fitur keamanan seperti 
+verifikasi masuk
+.
+
+
+
+
+Kami saat ini mendukung Tweet dua arah (mengirim dan menerima) lewat SMS dengan kode pendek yang disediakan oleh operator seluler yang mendukung.
+
+
+
+
+Jika Anda belum memiliki akun Twitter, baca tentang 
+cara membuat akun Twitter baru lewat SMS
+.
+
+
+
+
+Jika Anda sudah memiliki akun Twitter, dan ingin mulai menge-Tweet lewat SMS, berikut cara memulai:
+
+
+
+
+Cari kode pendek operator seluler Anda.
+
+
+Ketik kata 
+MULAI
+ atau 
+DAFTAR
+ dan kirim sebagai SMS ke kode pendek operator seluler Anda.
+Gunakan 
+perintah Twitter
+ yang ditetapkan untuk melakukan tindakan dari akun Twitter.
+
+
+Menggunakan kode panjang
+
+
+Jika tidak ada kode pendek yang terdaftar untuk negara dan operator seluler, Anda dapat mengirim Tweet menggunakan kode panjang Twitter.
+
+
+Kode panjang yang tercantum di bawah hanya untuk satu arah. Anda dapat mengirim Tweet yang akan diposting ke profil (dan dikirim ke pengikut) Anda, namun tidak akan dapat menerima Tweet atau notifikasi Twitter lain di ponsel Anda melalui saluran ini.
+
+
+
+
+
+
+
+
+
+
+Note
+: Karena alasan tersebut, kami tidak menyarankan fitur seperti verifikasi masuk bagi pengguna kode panjang sebab pengalaman yang akan Anda dapatkan mungkin kurang optimal.
+
+
+
+
+
+
+
+
+
+
+
+
+Pelanggan tidak harus berada di negara Inggris atau Jerman untuk menggunakan salah satu kode panjang di bawah ini, namun perlu diperhatikan bahwa Anda akan dikenakan tarif SMS internasional bila menggunakan kode ini.
+
+
+
+
+Inggris: +447624800379
+
+
+
+
+Jerman: +491724403473
+
+
+
+
+
+
+
+
+
+
+Bookmark or share this article
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Scroll to top
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Was this article helpful?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thank you for the feedback. We’re really glad we could help!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thank you for the feedback. How could we improve this article?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+It doesn’t have the information I need.
+
+
+
+
+
+
+
+
+
+
+The information was hard to follow or confusing.
+
+
+
+
+
+
+
+
+
+
+The solution did not work as described.
+
+
+
+
+
+
+
+
+
+
+There is a broken link, missing image, or typo.
+
+
+
+
+
+
+
+
+
+
+
+
+Submit feedback
+
+
+Skip
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Thank you for the feedback. Your comments will help us improve our articles in the future.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Tentang
+
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 Perusahaan
+              
+
+
+
+
+
+
+
+                 Nilai
+              
+
+
+
+
+
+
+
+                 Keamanan
+              
+
+
+
+
+
+
+
+                 Blog
+              
+
+
+
+
+
+
+
+                 Sumber Daya Merek
+              
+
+
+
+
+
+
+
+                 Karier
+              
+
+
+
+
+
+
+
+                 Investor
+              
+
+
+
+
+
+
+
+
+
+
+
+              Bisnis
+
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 Tentang Iklan Twitter
+              
+
+
+
+
+
+
+
+                 Penargetan
+              
+
+
+
+
+
+
+
+                 Analitik
+              
+
+
+
+
+
+
+
+                 Dukungan iklan
+              
+
+
+
+
+
+
+
+                 Blog bisnis
+              
+
+
+
+
+
+
+
+                 Pasang iklan
+              
+
+
+
+
+
+
+
+
+
+
+
+              Pengembang
+
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 Dokumentasi
+              
+
+
+
+
+
+
+
+                 Forum
+              
+
+
+
+
+
+
+
+                 Komunitas
+              
+
+
+
+
+
+
+
+                 Blog pengembang
+              
+
+
+
+
+
+
+
+
+
+
+
+              Pusat Bantuan
+
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 Menggunakan Twitter
+              
+
+
+
+
+
+
+
+                 Mengelola akun Anda
+              
+
+
+
+
+
+
+
+                 Keselamatan dan keamanan
+              
+
+
+
+
+
+
+
+                 Peraturan dan kebijakan
+              
+
+
+
+
+
+
+
+                 Hubungi kami
+              
+
+
+
+
+
+
+
+
+
+
+
+              Marketing
+
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 Wawasan
+              
+
+
+
+
+
+
+
+                 Kisah Sukses
+              
+
+
+
+
+
+
+
+                 Solusi
+              
+
+
+
+
+
+
+
+                 Koleksi
+              
+
+
+
+
+
+
+
+                 Blog Marketing
+              
+
+
+
+
+
+
+
+                 Flight School
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            © 2018 Twitter, Inc.
+          
+
+
+
+
+
+
+
+              Kuki
+            
+
+
+
+
+
+
+
+              Privasi
+            
+
+
+
+
+
+
+
+              Syarat dan Ketentuan
+            
+
+
+
+
+
+
+
+
+
+    Bahasa Indonesia 
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Help Center
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              English
+            
+
+
+
+
+
+
+
+              Español
+            
+
+
+
+
+
+
+
+              한국어 
+            
+
+
+
+
+
+
+
+              Português 
+            
+
+
+
+
+
+
+
+              Deutsch 
+            
+
+
+
+
+
+
+
+              Türkçe 
+            
+
+
+
+
+
+
+
+              Français 
+            
+
+
+
+
+
+
+
+              Italiano 
+            
+
+
+
+
+
+
+
+              العربيّة
+            
+
+
+
+
+
+
+
+              Nederlands
+            
+
+
+
+
+
+
+
+              Bahasa Indonesia 
+            
+
+
+
+
+
+
+
+              Русский
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        {
+  "@context": "http://schema.org",
+  "@type": "WPFooter",
+  "isPartOf": "https://help.twitter.com/id/using-twitter/twitter-sms"
+}
+  
+
+
+
+
+
+
+_satellite.pageBottom();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        {
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": "https://help.twitter.com/id/using-twitter/twitter-sms",
+  "name": "Cara menge-Tweet lewat SMS",
+  "headline": "Cara menge-Tweet lewat SMS",
+  "image": "https://help.twitter.com:80/content/dam/help-twitter/brand/logo.png",
+  "inLanguage": "in",
+  "description": "Dapatkan ikhtisar cara menge-Tweet lewat SMS dari perangkat seluler Anda.",
+  "publisher": {
+    "@type": "Organization",
+    "parentOrganization": {
+      "@type": "Corporation",
+      "name": "Twitter, Inc.",
+      "tickerSymbol": "TWTR",
+      "url": "https://twitter.com"
+    },
+    "name": "Twitter Help Center",
+    "url": "https://help.twitter.com",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://help.twitter.com/content/dam/help-twitter/brand/logo.png",
+      "caption": "Twitter Logo"
+    }
+  },
+  "articleSection": "Twitter SMS support",
+  "datePublished": "2017-12-05",
+  "dateModified": "2017-12-05",
+  "author": {
+    "@type": "Organization",
+    "parentOrganization": {
+      "@type": "Corporation",
+      "name": "Twitter, Inc.",
+      "tickerSymbol": "TWTR",
+      "url": "https://twitter.com"
+    },
+    "name": "Twitter Help Center",
+    "url": "https://help.twitter.com",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://help.twitter.com/content/dam/help-twitter/brand/logo.png",
+      "caption": "Twitter Logo"
+    }
+  },
+  "isPartOf": {
+    "@type": "CollectionPage",
+    "name": "using-twitter",
+    "url": "https://help.twitter.com/id/using-twitter",
+    "description": "Twitter SMS support"
+  },
+  "keywords": "twitter, help, support, teks Twitter, SMS Twitter, teks untuk Tweet "
+}
+
+
+
+
+
+
+>

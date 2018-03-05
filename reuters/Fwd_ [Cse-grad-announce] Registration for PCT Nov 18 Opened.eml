@@ -1,0 +1,153 @@
+Delivered-To: greylee369@gmail.com
+Received: by 10.103.196.18 with SMTP id c18csp4769480vsk;
+        Wed, 15 Nov 2017 07:31:01 -0800 (PST)
+X-Google-Smtp-Source: AGs4zMYtJ3qvcCltXWvr8cFHP0TiW6+IYfvrKPwM1vA5TDK4ZFAiwNv+eQRjy8GEfaS3Qj6VhGy9
+X-Received: by 10.36.7.80 with SMTP id f77mr19677299itf.77.1510759861052;
+        Wed, 15 Nov 2017 07:31:01 -0800 (PST)
+ARC-Seal: i=1; a=rsa-sha256; t=1510759860; cv=none;
+        d=google.com; s=arc-20160816;
+        b=naEmLMpoxAc9cxnm6SZrZc56kOMW38/GrYl9waWNCljfMwE68t4Jq6H8esH40zzaU+
+         Ntjy5WM8+xrCCXmApBuz4bQpOJvuMZUjFQW6bbv/TWXusU+fBFVfzp8yOvZxd29j0+pR
+         6HmLi70FIb0F0SLlbiMXYO9Fbcx/aAf1SX19wTcLoBDMGpUM4zvWscYThVMlbG35hZ3d
+         uXE9MlEeyq7Rhm4nU5AcyNhHG55CIuIrh0KOAZkK1s7xs55VqgGwb34vVltvIbezuP6h
+         i0uSpKVijr1J0FBVzGx6XTSMODu3aqIkVd0RUs9xOERpZ59mM/mmCai2dFQj6GnxE4mw
+         Y98Q==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=sender:errors-to:reply-to:list-subscribe:list-help:list-post
+         :list-archive:list-unsubscribe:list-id:precedence:subject
+         :content-language:in-reply-to:mime-version:user-agent:date
+         :message-id:from:to:references:arc-authentication-results;
+        bh=CU4Cd4zBPn5Ml9eKiE3frt6h48wNymNx7k7ESqNPsaE=;
+        b=nq2du4XngpfPeSk7ZZPorgZ79UZNOr2WLEvmiH7fNOw1D6Zn3wPbjda6xZ5QUc9tqz
+         9d3Ghe3+E2ttoA9T40qPKJSgR+ioSRNfr5mU/Yq++zrKeiGzy+hpLpRr5AnWqU/5jm62
+         KWEnI5sp6OouQzSrruyciTx22rkOiPuAomP5iLlHE78FlAjPxdczMRs6YM6/sLjA4Rh1
+         Ewk1BAhFQY7Fl+Jo2rle3zhe9Q/4irwfJaa3CluLxmtHkbWTITzob7d0UDrJgdk5cTLC
+         lW4Nuf+m+6IhsDU3hLi+IdlMWT0w92WX3QFFUOiyRK548dQu1Nt5UbYAz+K9vO36iWme
+         AtaA==
+ARC-Authentication-Results: i=1; mx.google.com;
+       spf=pass (google.com: best guess record for domain of yo_li@encs.concordia.ca designates 132.205.96.92 as permitted sender) smtp.mailfrom=yo_li@encs.concordia.ca
+Return-Path: <yo_li@encs.concordia.ca>
+Received: from oldperseverance.encs.concordia.ca (oldperseverance.encs.concordia.ca. [132.205.96.92])
+        by mx.google.com with ESMTP id v69si7061550ioi.58.2017.11.15.07.31.00
+        for <GreyLee369@gmail.com>;
+        Wed, 15 Nov 2017 07:31:00 -0800 (PST)
+Received-SPF: pass (google.com: best guess record for domain of yo_li@encs.concordia.ca designates 132.205.96.92 as permitted sender) client-ip=132.205.96.92;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: best guess record for domain of yo_li@encs.concordia.ca designates 132.205.96.92 as permitted sender) smtp.mailfrom=yo_li@encs.concordia.ca
+Received: from oldtact.encs.concordia.ca (smmsp@oldtact.encs.concordia.ca [132.205.96.85])
+	by oldperseverance.encs.concordia.ca (envelope-from yo_li@encs.concordia.ca) (8.13.7/8.13.7) with ESMTP id vAFFSXMh007509
+	for <GreyLee369@gmail.com>; Wed, 15 Nov 2017 10:31:00 -0500
+Received: (from yo_li@localhost)
+	by oldtact.encs.concordia.ca (8.14.5/8.14.5/Submit) id vAFF42qc032636
+	for GreyLee369@gmail.com; Wed, 15 Nov 2017 10:04:02 -0500
+Received: from oldperseverance.encs.concordia.ca (root@oldperseverance.encs.concordia.ca [132.205.96.92])
+	by oldtact.encs.concordia.ca (8.14.5/8.14.5) with ESMTP id vAFF3NCL029379;
+	Wed, 15 Nov 2017 10:03:23 -0500
+Received: from oldtact.encs.concordia.ca (mailman@oldtact.encs.concordia.ca [132.205.96.85])
+	by oldperseverance.encs.concordia.ca (envelope-from cse-grad-announce-bounces@encs.concordia.ca) (8.13.7/8.13.7) with ESMTP id vAFF30vn029768;
+	Wed, 15 Nov 2017 10:03:01 -0500
+Received: from oldperseverance.encs.concordia.ca
+ (root@oldperseverance.encs.concordia.ca [132.205.96.92])
+ by oldtact.encs.concordia.ca (8.14.5/8.14.5) with ESMTP id vAFF2wkM028868;
+ Wed, 15 Nov 2017 10:02:58 -0500
+Received: from [132.205.44.49] (halina@beeker.encs.concordia.ca
+ [132.205.44.49])
+ by oldperseverance.encs.concordia.ca (envelope-from halina@encs.concordia.ca)
+ (8.13.7/8.13.7) with ESMTP id vAFF2rdr029734; 
+ Wed, 15 Nov 2017 10:02:53 -0500
+References: <20171115094919.y0kv23wq8sgo4084@mail.encs.concordia.ca>
+To: grad-announce@cse.concordia.ca
+From: Halina Monkiewicz <halina@encs.concordia.ca>
+X-Forwarded-Message-Id: <20171115094919.y0kv23wq8sgo4084@mail.encs.concordia.ca>
+Message-ID: <63000ca5-b4ea-a36f-ec64-0ca9137e891b@encs.concordia.ca>
+Date: Wed, 15 Nov 2017 10:02:53 -0500
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:52.0) Gecko/20100101
+ Thunderbird/52.4.0
+MIME-Version: 1.0
+In-Reply-To: <20171115094919.y0kv23wq8sgo4084@mail.encs.concordia.ca>
+Content-Language: en-US
+X-Scanned-By: MIMEDefang 2.58 on oldperseverance.encs.concordia.ca at 2017-11-15 10:31:00 EST
+X-Scanned-By: MIMEDefang 2.58 on oldperseverance.encs.concordia.ca at 2017-11-15 10:03:17 EST
+X-Scanned-By: MIMEDefang 2.58 on oldperseverance.encs.concordia.ca at
+ 2017-11-15 10:02:53 EST
+Subject: [Cse-grad-announce] Fwd: Registration for PCT Nov 18 Opened
+X-BeenThere: cse-grad-announce@encs.concordia.ca
+X-Mailman-Version: 2.1.18
+Precedence: list
+List-Id: Mandatory announce-only list for official use
+ <cse-grad-announce.encs.concordia.ca>
+List-Unsubscribe: <https://mail.encs.concordia.ca:444/mailman/options/cse-grad-announce>, 
+ <mailto:cse-grad-announce-request@encs.concordia.ca?subject=unsubscribe>
+List-Archive: <https://mail.encs.concordia.ca:444/mailman/private/cse-grad-announce/>
+List-Post: <mailto:cse-grad-announce@encs.concordia.ca>
+List-Help: <mailto:cse-grad-announce-request@encs.concordia.ca?subject=help>
+List-Subscribe: <https://mail.encs.concordia.ca:444/mailman/listinfo/cse-grad-announce>, 
+ <mailto:cse-grad-announce-request@encs.concordia.ca?subject=subscribe>
+Reply-To: halina@encs.concordia.ca
+Content-Type: multipart/mixed; boundary="===============1652074383977606165=="
+Errors-To: cse-grad-announce-bounces@encs.concordia.ca
+Sender: "Cse-grad-announce" <cse-grad-announce-bounces@encs.concordia.ca>
+
+This is a multi-part message in MIME format.
+--===============1652074383977606165==
+Content-Type: multipart/alternative;
+ boundary="------------4445367CDFCE108B67DA516D"
+Content-Language: en-US
+
+This is a multi-part message in MIME format.
+--------------4445367CDFCE108B67DA516D
+Content-Type: text/plain; charset=windows-1252; format=flowed
+Content-Transfer-Encoding: 8bit
+
+*TO  :    Master course-based students*
+
+Following requests from students, the registration for PCT on NOV 18 is open until 12:00noon tomorrow (thursday 16 Nov 2017). I
+repeat that ALL students are given two additional opportunities (Nov 18 and Dec 2), independent of the number of previous attempts.
+Please note that we have a record of your transactions. So, getting some one else's code or passing your code to other students is an
+offense, and small variable name changes are easily detected. After December 2, I will look carefully at ALL students who have passed
+genuinely and announce the final results. I urge ALL students who have not completed PCT through genuine efforts to avail of this opportunity.
+
+Mudur SP
+
+
+--------------4445367CDFCE108B67DA516D
+Content-Type: text/html; charset=windows-1252
+Content-Transfer-Encoding: 8bit
+
+<html>
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=windows-1252">
+  </head>
+  <body text="#000000" bgcolor="#FFFFFF">
+    <p><b>TO  :    Master course-based students</b><br>
+    </p>
+    <div class="moz-forward-container">
+      <pre>Following requests from students, the registration for PCT on NOV 18 is open until 12:00noon tomorrow (thursday 16 Nov 2017). I 
+repeat that ALL students are given two additional opportunities (Nov 18 and Dec 2), independent of the number of previous attempts. 
+Please note that we have a record of your transactions. So, getting some one else's code or passing your code to other students is an 
+offense, and small variable name changes are easily detected. After December 2, I will look carefully at ALL students who have passed 
+genuinely and announce the final results. I urge ALL students who have not completed PCT through genuine efforts to avail of this opportunity.
+
+Mudur SP
+
+</pre>
+    </div>
+  </body>
+</html>
+
+--------------4445367CDFCE108B67DA516D--
+
+
+--===============1652074383977606165==
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-Disposition: inline
+
+_______________________________________________
+Cse-grad-announce mailing list
+Cse-grad-announce@encs.concordia.ca
+https://mail.encs.concordia.ca:444/mailman/listinfo/cse-grad-announce
+--===============1652074383977606165==--
+

@@ -1,0 +1,1967 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Tweeten via sms
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu openen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Helpcentrum
+
+
+
+
+
+
+
+
+
+
+Help-onderwerpen
+
+
+
+
+
+
+
+                Twitter gebruiken
+              
+
+
+
+
+
+
+
+                Je account beheren
+              
+
+
+
+
+
+
+
+                Veiligheid en beveiliging
+              
+
+
+
+
+
+
+
+                Regels en beleid
+              
+
+
+
+
+
+
+
+
+
+
+Gidsen
+
+
+
+
+
+
+
+                Veelgestelde vragen van nieuwe gebruikers
+              
+
+
+
+
+
+
+
+                Aan de slag
+              
+
+
+
+
+
+
+
+                Woordenlijst
+              
+
+
+
+
+
+
+Neem contact met ons op
+
+
+
+
+
+
+
+
+
+
+Zoeken
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ga naar Twitter
+
+
+
+
+
+
+Uitloggen
+
+
+
+
+
+
+
+        Inloggen
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search this site
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zoeken
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        {
+  "@context": "http://schema.org",
+  "@type": "WPHeader",
+  "isPartOf": "https://help.twitter.com/nl/using-twitter/twitter-sms"
+}
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            Sms
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zoeken
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Twitter gebruiken
+              
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Tweets
+                
+
+
+
+
+
+
+
+                    Content toevoegen aan je Tweet
+                
+
+
+
+
+
+
+
+                    Zoekopdrachten en trends
+                
+
+
+
+
+
+
+
+                    Volgen en ontvolgen
+                
+
+
+
+
+
+
+
+                    Blokkeren en negeren
+                
+
+
+
+
+
+
+
+                    Privéberichten
+                
+
+
+
+
+
+
+
+                    Twitter op je apparaat
+                
+
+
+
+
+
+
+
+                    Website- en appintegratie
+                
+
+
+
+
+
+
+
+
+
+
+
+              Je account beheren
+              
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Inlognaam en wachtwoord
+                
+
+
+
+
+
+
+
+                    Gebruikersnaam, e-mailadres en telefoonnummer
+                
+
+
+
+
+
+
+
+                    Accountinstellingen
+                
+
+
+
+
+
+
+
+                    Meldingen
+                
+
+
+
+
+
+
+
+                    Geverifieerde accounts
+                
+
+
+
+
+
+
+
+                    Opgeschorte accounts
+                
+
+
+
+
+
+
+
+                    Accounts deactiveren en opnieuw activeren
+                
+
+
+
+
+
+
+
+
+
+
+
+              Veiligheid en beveiliging
+              
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Beveiliging en gehackte accounts
+                
+
+
+
+
+
+
+
+                    Privacy
+                
+
+
+
+
+
+
+
+                    Spam en nepaccounts
+                
+
+
+
+
+
+
+
+                    Gevoelige content
+                
+
+
+
+
+
+
+
+                    Wangedrag
+                
+
+
+
+
+
+
+
+
+
+
+
+              Regels en beleid
+              
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Twitter-regels en -beleid
+                
+
+
+
+
+
+
+
+                    Algemene richtlijnen en beleid
+                
+
+
+
+
+
+
+
+                    Richtlijnen voor wetshandhavende instanties
+                
+
+
+
+
+
+
+
+                    Onderzoek en experimenten
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+      {
+  "@context": "http://schema.org",
+  "@type": "WPSideBar",
+  "isPartOf": "https://help.twitter.com/nl/using-twitter/twitter-sms"
+}
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Helpcentrum
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Twitter op je apparaat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tweeten via sms
+
+
+
+
+
+
+
+          {
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": {
+    "@type": "ItemList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "name": "Helpcentrum",
+        "position": "1",
+        "url": "/content/help-twitter/nl"
+      },
+      {
+        "@type": "ListItem",
+        "name": "Twitter op je apparaat",
+        "position": "3",
+        "url": "/content/help-twitter/nl/using-twitter#twitter-on-your-device"
+      },
+      {
+        "@type": "ListItem",
+        "name": "Tweeten via sms",
+        "position": "4",
+        "url": "/content/help-twitter/nl/using-twitter/twitter-sms"
+      }
+    ]
+  }
+}
+      
+
+
+
+
+
+
+
+
+Tweeten via sms
+
+
+
+
+Als je 
+jouw mobiele telefoonnummer aan je Twitter-account toevoegt
+, kan je Tweets sturen door een sms naar een short code of long code te sturen.
+
+
+Door een sms naar een van deze short code- of long code-telefoonnummers te sturen, wordt je bericht als Tweet geplaatst in je Twitter-profiel (en verstuurd naar al je volgers).
+
+
+
+
+Er bestaan enkele belangrijke verschillen tussen het gebruik van Twitter via short codes of long codes:
+
+
+
+
+Een short code gebruiken
+
+
+
+
+Als je Twitter gebruikt door sms-berichten te sturen naar een short code, kan je acties uitvoeren en toegang krijgen tot inhoud, net als dit mogelijk is via internet en slimme apparaten.
+
+
+Als je short codes gebruikt voor je Twitter-account, kan je Tweets plaatsen, meldingen ontvangen en beveiligingsfunctionaliteit (zoals 
+inlogverificatie
+) activeren.
+
+
+
+
+Momenteel bieden we ondersteuning voor Tweets in twee richtingen (verzenden en ontvangen) via sms-short codes die worden aangeboden door ondersteunde mobiele providers.
+
+
+
+
+Als je nog geen Twitter-account hebt, lees je meer over 
+hoe je een nieuwe Twitter-account registreert via sms
+.
+
+
+
+
+Als je al een Twitter-account hebt en wil gaan tweeten via sms, ga je als volgt te werk:
+
+
+
+
+Zoek de short code van jouw mobiele provider.
+
+
+Stuur het woord 
+START
+ of 
+REGISTREER
+ naar de short code van jouw mobiele provider.
+Gebruik de volgende speciale 
+Twitter-opdrachten
+ om acties uit te voeren voor je Twitter-account
+
+
+Een long code gebruiken
+
+
+Als voor jouw land en provider geen short code wordt weergegeven, kan je mogelijk Tweets plaatsen met behulp van één van de long codes voor Twitter.
+
+
+De onderstaande long codes werken maar in één richting. Je kan Tweets verzenden die in je profiel worden geplaatst (en naar volgers worden verstuurd), maar je kan via deze methode geen Tweets of andere Twitter-meldingen ontvangen op je telefoon.
+
+
+
+
+
+
+
+
+
+
+Opmerking
+: We raden gebruikers van long codes dan ook af om functionaliteiten zoals inlogverificatie te gebruiken, omdat de ervaring mogelijk niet optimaal is.
+
+
+
+
+
+
+
+
+
+
+
+
+Abonnees hoeven zich niet in het Verenigd Koninkrijk of Duitsland te bevinden om de onderstaande long codes te gebruiken. Hou er wel rekening mee dat er kosten voor internationale berichtverzending in rekening kunnen worden gebracht wanneer je de codes gebruikt.
+
+
+
+
+Verenigd Koninkrijk: +447624800379.
+
+
+
+
+Duitsland: +491724403473.
+
+
+
+
+
+
+
+
+
+
+Dit artikel delen of als bladwijzer instellen
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Scrol naar boven
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Was dit artikel nuttig?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bedankt voor je feedback. We zijn blij dat we je konden helpen!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bedankt voor je feedback. Hoe kunnen we dit artikel verbeteren?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Het bevat niet de informatie die ik nodig heb.
+
+
+
+
+
+
+
+
+
+
+De informatie was moeilijk te volgen of verwarrend.
+
+
+
+
+
+
+
+
+
+
+De oplossing werkte niet zoals werd aangegeven.
+
+
+
+
+
+
+
+
+
+
+Er is een verbroken link, ontbrekende afbeelding of typefout.
+
+
+
+
+
+
+
+
+
+
+
+
+Feedback verzenden
+
+
+Overslaan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bedankt voor je feedback. Dankzij jouw opmerkingen kunnen we onze artikelen verbeteren.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Over Twitter
+
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 Bedrijf
+              
+
+
+
+
+
+
+
+                 Waarden
+              
+
+
+
+
+
+
+
+                 Veiligheid
+              
+
+
+
+
+
+
+
+                 Blog
+              
+
+
+
+
+
+
+
+                 Merkrichtlijnen en hulpbronnen
+              
+
+
+
+
+
+
+
+                 Vacatures
+              
+
+
+
+
+
+
+
+                 Investeerders
+              
+
+
+
+
+
+
+
+
+
+
+
+              Zakelijk
+
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 Over Twitter Ads
+              
+
+
+
+
+
+
+
+                 Targeting
+              
+
+
+
+
+
+
+
+                 Analyses
+              
+
+
+
+
+
+
+
+                 Twitter Ads-ondersteuning
+              
+
+
+
+
+
+
+
+                 Business Blog
+              
+
+
+
+
+
+
+
+                 Adverteren
+              
+
+
+
+
+
+
+
+
+
+
+
+              Ontwikkelaars
+
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 Documentatie
+              
+
+
+
+
+
+
+
+                 Forums
+              
+
+
+
+
+
+
+
+                 Community's
+              
+
+
+
+
+
+
+
+                 Developer Blog
+              
+
+
+
+
+
+
+
+
+
+
+
+              Helpcentrum
+
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 Het gebruik van Twitter
+              
+
+
+
+
+
+
+
+                 Je account beheren
+              
+
+
+
+
+
+
+
+                 Veiligheid en beveiliging
+              
+
+
+
+
+
+
+
+                 Regels en beleid
+              
+
+
+
+
+
+
+
+                 Contact
+              
+
+
+
+
+
+
+
+
+
+
+
+              Marketing
+
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 Kennis en ideeën
+              
+
+
+
+
+
+
+
+                 Succesverhalen
+              
+
+
+
+
+
+
+
+                 Oplossingen
+              
+
+
+
+
+
+
+
+                 Verzamelingen
+              
+
+
+
+
+
+
+
+                 Marketing Blog
+              
+
+
+
+
+
+
+
+                 Flight School
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            © 2018 Twitter, Inc.
+          
+
+
+
+
+
+
+
+              Cookies
+            
+
+
+
+
+
+
+
+              Privacy
+            
+
+
+
+
+
+
+
+              Algemene voorwaarden
+            
+
+
+
+
+
+
+
+
+
+    Nederlands
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Helpcentrum
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              English
+            
+
+
+
+
+
+
+
+              Español
+            
+
+
+
+
+
+
+
+              한국어 
+            
+
+
+
+
+
+
+
+              Português 
+            
+
+
+
+
+
+
+
+              Deutsch 
+            
+
+
+
+
+
+
+
+              Türkçe 
+            
+
+
+
+
+
+
+
+              Français 
+            
+
+
+
+
+
+
+
+              Italiano 
+            
+
+
+
+
+
+
+
+              العربيّة
+            
+
+
+
+
+
+
+
+              Nederlands
+            
+
+
+
+
+
+
+
+              Bahasa Indonesia 
+            
+
+
+
+
+
+
+
+              Русский
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        {
+  "@context": "http://schema.org",
+  "@type": "WPFooter",
+  "isPartOf": "https://help.twitter.com/nl/using-twitter/twitter-sms"
+}
+  
+
+
+
+
+
+
+_satellite.pageBottom();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        {
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": "https://help.twitter.com/nl/using-twitter/twitter-sms",
+  "name": "Tweeten via sms",
+  "headline": "Tweeten via sms",
+  "image": "https://help.twitter.com:80/content/dam/help-twitter/brand/logo.png",
+  "inLanguage": "nl",
+  "description": "Bekijk dit overzicht over het tweeten via sms vanaf je mobiele apparaat.",
+  "publisher": {
+    "@type": "Organization",
+    "parentOrganization": {
+      "@type": "Corporation",
+      "name": "Twitter, Inc.",
+      "tickerSymbol": "TWTR",
+      "url": "https://twitter.com"
+    },
+    "name": "Twitter Help Center",
+    "url": "https://help.twitter.com",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://help.twitter.com/content/dam/help-twitter/brand/logo.png",
+      "caption": "Twitter Logo"
+    }
+  },
+  "articleSection": "Twitter SMS support",
+  "datePublished": "2017-12-05",
+  "dateModified": "2017-12-05",
+  "author": {
+    "@type": "Organization",
+    "parentOrganization": {
+      "@type": "Corporation",
+      "name": "Twitter, Inc.",
+      "tickerSymbol": "TWTR",
+      "url": "https://twitter.com"
+    },
+    "name": "Twitter Help Center",
+    "url": "https://help.twitter.com",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://help.twitter.com/content/dam/help-twitter/brand/logo.png",
+      "caption": "Twitter Logo"
+    }
+  },
+  "isPartOf": {
+    "@type": "CollectionPage",
+    "name": "using-twitter",
+    "url": "https://help.twitter.com/nl/using-twitter",
+    "description": "Twitter SMS support"
+  },
+  "keywords": "twitter, help, support, Twitter sms, Twitter sms-bericht, sms\u0027en om te tweeten "
+}
+
+
+
+
+
+
+>

@@ -1,0 +1,1967 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Come twittare tramite SMS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Apri menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Centro assistenza
+
+
+
+
+
+
+
+
+
+
+Argomenti di assistenza
+
+
+
+
+
+
+
+                Utilizzo di Twitter
+              
+
+
+
+
+
+
+
+                Gestione dell'account
+              
+
+
+
+
+
+
+
+                Sicurezza e prevenzione
+              
+
+
+
+
+
+
+
+                Regole e norme
+              
+
+
+
+
+
+
+
+
+
+
+Guide
+
+
+
+
+
+
+
+                Domande frequenti per nuovi utenti
+              
+
+
+
+
+
+
+
+                Primi passi
+              
+
+
+
+
+
+
+
+                Glossario
+              
+
+
+
+
+
+
+Contattaci
+
+
+
+
+
+
+
+
+
+
+Cerca
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Accedi a Twitter
+
+
+
+
+
+
+Esci
+
+
+
+
+
+
+
+        Accedi
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search this site
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cerca
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        {
+  "@context": "http://schema.org",
+  "@type": "WPHeader",
+  "isPartOf": "https://help.twitter.com/it/using-twitter/twitter-sms"
+}
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            SMS
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cerca
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Utilizzo di Twitter
+              
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Tweet
+                
+
+
+
+
+
+
+
+                    Aggiunta di contenuti al tuo Tweet
+                
+
+
+
+
+
+
+
+                    Ricerca e tendenze
+                
+
+
+
+
+
+
+
+                    Seguire e smettere di seguire
+                
+
+
+
+
+
+
+
+                    Blocco e silenziamento
+                
+
+
+
+
+
+
+
+                    Messaggi Diretti
+                
+
+
+
+
+
+
+
+                    Twitter sul tuo dispositivo
+                
+
+
+
+
+
+
+
+                    Integrazioni con siti web e app
+                
+
+
+
+
+
+
+
+
+
+
+
+              Gestione dell'account
+              
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Accesso e password
+                
+
+
+
+
+
+
+
+                    Nome utente, email e numero di telefono
+                
+
+
+
+
+
+
+
+                    Impostazioni dell'account
+                
+
+
+
+
+
+
+
+                    Notifiche
+                
+
+
+
+
+
+
+
+                    Account verificati
+                
+
+
+
+
+
+
+
+                    Sospensione account
+                
+
+
+
+
+
+
+
+                    Disattivazione e riattivazione degli account
+                
+
+
+
+
+
+
+
+
+
+
+
+              Sicurezza e prevenzione
+              
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Sicurezza e account violati
+                
+
+
+
+
+
+
+
+                    Privacy
+                
+
+
+
+
+
+
+
+                    Account spam e fake
+                
+
+
+
+
+
+
+
+                    Contenuti sensibili
+                
+
+
+
+
+
+
+
+                    Offesa
+                
+
+
+
+
+
+
+
+
+
+
+
+              Regole e norme
+              
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Regole e norme di Twitter
+                
+
+
+
+
+
+
+
+                    Linee guida e norme generali
+                
+
+
+
+
+
+
+
+                    Linee guida per le forze dell'ordine
+                
+
+
+
+
+
+
+
+                    Ricerca ed esperimenti
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+      {
+  "@context": "http://schema.org",
+  "@type": "WPSideBar",
+  "isPartOf": "https://help.twitter.com/it/using-twitter/twitter-sms"
+}
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Centro assistenza
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Twitter sul tuo dispositivo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Come twittare tramite SMS
+
+
+
+
+
+
+
+          {
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": {
+    "@type": "ItemList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "name": "Centro assistenza",
+        "position": "1",
+        "url": "/content/help-twitter/it"
+      },
+      {
+        "@type": "ListItem",
+        "name": "Twitter sul tuo dispositivo",
+        "position": "3",
+        "url": "/content/help-twitter/it/using-twitter#twitter-on-your-device"
+      },
+      {
+        "@type": "ListItem",
+        "name": "Come twittare tramite SMS",
+        "position": "4",
+        "url": "/content/help-twitter/it/using-twitter/twitter-sms"
+      }
+    ]
+  }
+}
+      
+
+
+
+
+
+
+
+
+Come twittare tramite SMS
+
+
+
+
+Se 
+aggiungi il numero di cellulare al tuo account Twitter
+, potrai twittare inviando un SMS a un numero breve o lungo.
+
+
+L'invio di un SMS a uno di questi numeri di telefono brevi o lunghi ti consentirà di pubblicare il messaggio sotto forma di Tweet sul profilo Twitter e di inviarlo così a tutti i tuoi follower.
+
+
+
+
+L'utilizzo di Twitter con un numero breve o lungo prevede sostanziali differenze.
+
+
+
+
+Utilizzo di un numero breve
+
+
+
+
+L'utilizzo di Twitter tramite l'invio di un numero breve ti consente di eseguire le stesse azioni e accedere ai contenuti come faresti tramite Web o smartphone.
+
+
+Se utilizzi un numero breve con l'account Twitter, puoi pubblicare i Tweet, ricevere notifiche e continuare a utilizzare funzioni di protezione come la 
+verifica dell'accesso
+.
+
+
+
+
+Attualmente supportiamo Tweet bi-direzionali (invio e ricezione) via SMS tramite i numeri brevi forniti dai gestori di telefonia mobile supportati.
+
+
+
+
+Se non hai ancora un account Twitter, scopri 
+come iscriverti per ottenere un nuovo account Twitter tramite SMS
+.
+
+
+
+
+Se hai già un account Twitter e vuoi iniziare a inviare Tweet via SMS, attieniti alla seguente procedura:
+
+
+
+
+Individua il numero breve del tuo gestore di telefonia mobile.
+
+
+Invia un SMS al numero breve del tuo gestore di telefonia mobile con la parola 
+INIZIA
+ o 
+ISCRIVITI
+.
+Utilizza i 
+comandi di Twitter
+ designati per eseguire le azioni dal tuo account Twitter.
+
+
+Utilizzo di un numero lungo
+
+
+se nell'elenco non ci sono indicazioni sulla disponibilità dei numeri brevi per il tuo paese e per il tuo gestore, puoi pubblicare un Tweet utilizzando uno dei numeri lunghi di Twitter.
+
+
+I numeri lunghi elencati di seguito sono solo monodirezionali. Puoi inviare Tweet che verranno pubblicati sul tuo profilo e inviati ai tuoi follower, ma non potrai utilizzare questo canale per ricevere Tweet o altre notifiche di Twitter sul telefono.
+
+
+
+
+
+
+
+
+
+
+Nota
+: Per tali motivi, sconsigliamo funzioni come la verifica dell'accesso agli utenti che utilizzano numeri lunghi, poiché l'esperienza potrebbe non essere ottimale.
+
+
+
+
+
+
+
+
+
+
+
+
+Per utilizzare uno dei numeri lunghi riportati di seguito, gli iscritti non devono trovarsi nel Regno Unito o in Germania. Ricorda inoltre che agli iscritti che utilizzano tali numeri potranno essere applicate le tariffe per i messaggi internazionali.
+
+
+
+
+Regno Unito: +447624800379
+
+
+
+
+Germania: +491724403473
+
+
+
+
+
+
+
+
+
+
+Aggiungi questo articolo ai preferiti o condividilo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Torna su
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Questo articolo è stato utile?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Grazie per il feedback. Siamo felici che di averti aiutato.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Grazie per il feedback. Come potremmo migliorare questo articolo?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Non include le informazioni che mi servono.
+
+
+
+
+
+
+
+
+
+
+Le informazioni sono difficili da seguire o poco chiare.
+
+
+
+
+
+
+
+
+
+
+La soluzione non ha funzionato come da descrizione.
+
+
+
+
+
+
+
+
+
+
+Contiene un link non valido, manca un'immagine o c'è un errore di digitazione.
+
+
+
+
+
+
+
+
+
+
+
+
+Invia feedback
+
+
+Salta
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Grazie per il feedback. I tuoi commenti ci aiuteranno a migliorare gli articoli.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Chi siamo
+
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 Azienda
+              
+
+
+
+
+
+
+
+                 Valori
+              
+
+
+
+
+
+
+
+                 Sicurezza
+              
+
+
+
+
+
+
+
+                 Blog
+              
+
+
+
+
+
+
+
+                 Risorse del brand
+              
+
+
+
+
+
+
+
+                 Lavora con noi
+              
+
+
+
+
+
+
+
+                 Investitori
+              
+
+
+
+
+
+
+
+
+
+
+
+              Aziende
+
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 Informazioni su Twitter Ads
+              
+
+
+
+
+
+
+
+                 Targeting
+              
+
+
+
+
+
+
+
+                 Analytics
+              
+
+
+
+
+
+
+
+                 Supporto per Twitter Ads
+              
+
+
+
+
+
+
+
+                 Blog per aziende
+              
+
+
+
+
+
+
+
+                 Fai pubblicità
+              
+
+
+
+
+
+
+
+
+
+
+
+              Sviluppatori
+
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 Documentazione
+              
+
+
+
+
+
+
+
+                 Forum
+              
+
+
+
+
+
+
+
+                 Community
+              
+
+
+
+
+
+
+
+                 Blog per sviluppatori
+              
+
+
+
+
+
+
+
+
+
+
+
+              Centro assistenza
+
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 Utilizzo di Twitter
+              
+
+
+
+
+
+
+
+                 Gestione dell'account
+              
+
+
+
+
+
+
+
+                 Sicurezza
+              
+
+
+
+
+
+
+
+                 Regole e norme
+              
+
+
+
+
+
+
+
+                 Contattaci
+              
+
+
+
+
+
+
+
+
+
+
+
+              Marketing
+
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 Insight
+              
+
+
+
+
+
+
+
+                 Storie di successo
+              
+
+
+
+
+
+
+
+                 Soluzioni
+              
+
+
+
+
+
+
+
+                 Collezioni
+              
+
+
+
+
+
+
+
+                 Blog di marketing
+              
+
+
+
+
+
+
+
+                 Flight School
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            © 2018 Twitter, Inc.
+          
+
+
+
+
+
+
+
+              Cookie
+            
+
+
+
+
+
+
+
+              Privacy
+            
+
+
+
+
+
+
+
+              Termini e condizioni
+            
+
+
+
+
+
+
+
+
+
+    Italiano 
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Centro assistenza
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              English
+            
+
+
+
+
+
+
+
+              Español
+            
+
+
+
+
+
+
+
+              한국어 
+            
+
+
+
+
+
+
+
+              Português 
+            
+
+
+
+
+
+
+
+              Deutsch 
+            
+
+
+
+
+
+
+
+              Türkçe 
+            
+
+
+
+
+
+
+
+              Français 
+            
+
+
+
+
+
+
+
+              Italiano 
+            
+
+
+
+
+
+
+
+              العربيّة
+            
+
+
+
+
+
+
+
+              Nederlands
+            
+
+
+
+
+
+
+
+              Bahasa Indonesia 
+            
+
+
+
+
+
+
+
+              Русский
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        {
+  "@context": "http://schema.org",
+  "@type": "WPFooter",
+  "isPartOf": "https://help.twitter.com/it/using-twitter/twitter-sms"
+}
+  
+
+
+
+
+
+
+_satellite.pageBottom();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        {
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": "https://help.twitter.com/it/using-twitter/twitter-sms",
+  "name": "Come twittare tramite SMS",
+  "headline": "Come twittare tramite SMS",
+  "image": "https://help.twitter.com:80/content/dam/help-twitter/brand/logo.png",
+  "inLanguage": "it",
+  "description": "Leggi una panoramica su come twittare tramite SMS da dispositivi mobili.",
+  "publisher": {
+    "@type": "Organization",
+    "parentOrganization": {
+      "@type": "Corporation",
+      "name": "Twitter, Inc.",
+      "tickerSymbol": "TWTR",
+      "url": "https://twitter.com"
+    },
+    "name": "Twitter Help Center",
+    "url": "https://help.twitter.com",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://help.twitter.com/content/dam/help-twitter/brand/logo.png",
+      "caption": "Twitter Logo"
+    }
+  },
+  "articleSection": "Twitter SMS support",
+  "datePublished": "2017-12-05",
+  "dateModified": "2017-12-05",
+  "author": {
+    "@type": "Organization",
+    "parentOrganization": {
+      "@type": "Corporation",
+      "name": "Twitter, Inc.",
+      "tickerSymbol": "TWTR",
+      "url": "https://twitter.com"
+    },
+    "name": "Twitter Help Center",
+    "url": "https://help.twitter.com",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://help.twitter.com/content/dam/help-twitter/brand/logo.png",
+      "caption": "Twitter Logo"
+    }
+  },
+  "isPartOf": {
+    "@type": "CollectionPage",
+    "name": "using-twitter",
+    "url": "https://help.twitter.com/it/using-twitter",
+    "description": "Twitter SMS support"
+  },
+  "keywords": "twitter, help, support, testo twitter, sms twitter, SMS per twittare "
+}
+
+
+
+
+
+
+>

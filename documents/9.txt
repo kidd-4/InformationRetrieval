@@ -1,0 +1,1965 @@
+
+
+
+
+
+
+
+
+
+
+
+
+Kısa mesaj aracılığıyla Tweetleme
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menüyü aç
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yardım Merkezi
+
+
+
+
+
+
+
+
+
+
+Yardım başlıkları
+
+
+
+
+
+
+
+                Twitter kullanma
+              
+
+
+
+
+
+
+
+                Hesabınızı yönetme
+              
+
+
+
+
+
+
+
+                Emniyet ve güvenlik
+              
+
+
+
+
+
+
+
+                Kurallar ve politikalar
+              
+
+
+
+
+
+
+
+
+
+
+Kılavuzlar
+
+
+
+
+
+
+
+                Yeni kullanıcılar için SSS
+              
+
+
+
+
+
+
+
+                Başlarken
+              
+
+
+
+
+
+
+
+                Sözlük
+              
+
+
+
+
+
+
+Bize ulaşın
+
+
+
+
+
+
+
+
+
+
+Ara
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Twitter'a Git
+
+
+
+
+
+
+Çıkış yap
+
+
+
+
+
+
+
+        Giriş yap
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Search this site
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ara
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        {
+  "@context": "http://schema.org",
+  "@type": "WPHeader",
+  "isPartOf": "https://help.twitter.com/tr/using-twitter/twitter-sms"
+}
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+            SMS
+          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ara
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Twitter kullanma
+              
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Tweetler
+                
+
+
+
+
+
+
+
+                    Tweetinize içerik ekleme
+                
+
+
+
+
+
+
+
+                    Arama ve gündemler
+                
+
+
+
+
+
+
+
+                    Takip etme ve takibi bırakma
+                
+
+
+
+
+
+
+
+                    Engelleme ve sessize alma
+                
+
+
+
+
+
+
+
+                    Direkt Mesajlar
+                
+
+
+
+
+
+
+
+                    Cihazınızda Twitter
+                
+
+
+
+
+
+
+
+                    Web sitesi ve uygulama entegrasyonları
+                
+
+
+
+
+
+
+
+
+
+
+
+              Hesabınızı yönetme
+              
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Giriş ve şifre
+                
+
+
+
+
+
+
+
+                    Kullanıcı adı, e-posta ve telefon
+                
+
+
+
+
+
+
+
+                    Hesap ayarları
+                
+
+
+
+
+
+
+
+                    Bildirimler
+                
+
+
+
+
+
+
+
+                    Onaylanmış hesaplar
+                
+
+
+
+
+
+
+
+                    Askıya alınmış hesaplar
+                
+
+
+
+
+
+
+
+                    Hesapları devre dışı bırakma ve tekrar etkinleştirme
+                
+
+
+
+
+
+
+
+
+
+
+
+              Emniyet ve güvenlik
+              
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Güvenlik ve ele geçirilmiş hesaplar
+                
+
+
+
+
+
+
+
+                    Gizlilik
+                
+
+
+
+
+
+
+
+                    Spam ve sahte hesaplar
+                
+
+
+
+
+
+
+
+                    Hassas içerik
+                
+
+
+
+
+
+
+
+                    Taciz
+                
+
+
+
+
+
+
+
+
+
+
+
+              Kurallar ve politikalar
+              
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    Twitter Kuralları ve politikaları
+                
+
+
+
+
+
+
+
+                    Genel yönergeler ve politikalar
+                
+
+
+
+
+
+
+
+                    Hukuk kurallarının icrasından sorumlu mercilere ilişkin yönergeler
+                
+
+
+
+
+
+
+
+                    Araştırma ve denemeler
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+      {
+  "@context": "http://schema.org",
+  "@type": "WPSideBar",
+  "isPartOf": "https://help.twitter.com/tr/using-twitter/twitter-sms"
+}
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yardım Merkezi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cihazınızda Twitter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Kısa mesaj aracılığıyla Tweetleme
+
+
+
+
+
+
+
+          {
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": {
+    "@type": "ItemList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "name": "Yardım Merkezi",
+        "position": "1",
+        "url": "/content/help-twitter/tr"
+      },
+      {
+        "@type": "ListItem",
+        "name": "Cihazınızda Twitter",
+        "position": "3",
+        "url": "/content/help-twitter/tr/using-twitter#twitter-on-your-device"
+      },
+      {
+        "@type": "ListItem",
+        "name": "Kısa mesaj aracılığıyla Tweetleme",
+        "position": "4",
+        "url": "/content/help-twitter/tr/using-twitter/twitter-sms"
+      }
+    ]
+  }
+}
+      
+
+
+
+
+
+
+
+
+Kısa mesaj aracılığıyla Tweetleme
+
+
+
+
+Cep telefonu numaranızı Twitter hesabınıza eklerseniz
+, kısa veya uzun bir koda kısa mesaj göndererek Tweetleyebilirsiniz.
+
+
+Bu uzun veya kısa kodlu telefon numaralarına kısa mesaj gönderdiğinizde, mesajınız Twitter profilinize Tweet olarak gönderilir (ayrıca takipçilerinizin tümüne gönderilir).
+
+
+
+
+Twitter'ı kısa veya uzun kod aracılığıyla kullanmak arasında önemli farklar vardır:
+
+
+
+
+Kısa kod kullanma
+
+
+
+
+Twitter'ı kısa koda kısa mesaj göndererek kullanmak, web'de veya akıllı bir cihazda olduğu gibi işlemler gerçekleştirip içeriklere erişebileceğiniz anlamına gelir.
+
+
+Twitter hesabınızla kısa kod kullandığınızda Tweet gönderebilir, bildirimleri alabilir ve 
+giriş onaylama
+ gibi güvenlik özelliklerini etkinleştirebilirsiniz.
+
+
+
+
+Şu anda, desteklenen mobil operatörlerimiz tarafından sağlanan kısa kodlarla, kısa mesaj aracılığıyla çift yönlü Tweetleri (gönderme ve alma) destekliyoruz.
+
+
+
+
+Henüz bir Twitter hesabınız yoksa, 
+kısa mesaj aracılığıyla yeni bir Twitter hesabına kaydolma
+ hakkında bilgi edinebilirsiniz.
+
+
+
+
+Zaten bir Twitter hesabınız varsa ve kısa mesaj aracılığıyla Tweetlemeye başlamak istiyorsanız, nasıl başlayacağınıza dair bilgileri aşağıda bulabilirsiniz:
+
+
+
+
+Mobil operatörünüzün kısa kodunu bulun.
+
+
+BAŞLA
+ veya 
+KAYDOL
+ yazıp mobil operatörünüzün kısa koduna gönderin.
+Twitter hesabınızdan işlem gerçekleştirmek için belirlenen bu 
+Twitter komutlarını
+ kullanın.
+
+
+Uzun kod kullanma
+
+
+Ülkeniz veya operatörünüz kısa kodlu olarak listelenmiyorsa, Tweet göndermek için Twitter uzun kodlarımızdan herhangi birini kullanmanız mümkün olabilir.
+
+
+Aşağıda listelenen uzun kodlar yalnızca tek yönlüdür. Profilinizde yayınlanacak (ve takipçilerinize gönderilecek) Tweetler gönderebilirsiniz, ancak Tweetleri veya diğer Twitter bildirimlerini bu kanal aracılığıyla telefonunuza alamazsınız.
+
+
+
+
+
+
+
+
+
+
+Not
+: Bu nedenlerden dolayı, kullanıcı deneyimi ideal düzeyden düşük olabileceği için uzun kod kullanıcılarının giriş onaylama gibi özellikleri kullanmaları önerilmez.
+
+
+
+
+
+
+
+
+
+
+
+
+Abonelerin aşağıdaki uzun kodları kullanabilmeleri için Birleşik Krallık veya Almanya'da olmaları gerekmez, ancak bu kodları kullanırken uluslararası mesajlaşma ücretleri uygulanabileceğini lütfen unutmayın.
+
+
+
+
+Birleşik Krallık: +447624800379
+
+
+
+
+Almanya: +491724403473
+
+
+
+
+
+
+
+
+
+
+Bu makaleyi yer işareti olarak belirtin veya paylaşın
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      Başa git
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bu makale faydalı oldu mu?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Geri bildiriminiz için teşekkür ederiz. Yardımcı olabildiğimize çok sevindik!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Geri bildiriminiz için teşekkür ederiz. Bu makaleyi nasıl iyileştirebiliriz?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+İhtiyacım olan bilgi yok.
+
+
+
+
+
+
+
+
+
+
+Bilgileri takip etmek zordu veya kafa karıştırıcıydı.
+
+
+
+
+
+
+
+
+
+
+Çözüm anlatıldığı gibi işe yaramadı.
+
+
+
+
+
+
+
+
+
+
+Bozuk bağlantı, eksik resim veya yazım hatası var.
+
+
+
+
+
+
+
+
+
+
+
+
+Geri bildirim gönder
+
+
+Geç
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Geri bildiriminiz için teşekkür ederiz. Yorumlarınız gelecekte makalelerimizi geliştirmemize yardımcı olacak.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              Hakkında
+
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 Şirket
+              
+
+
+
+
+
+
+
+                 Değerler
+              
+
+
+
+
+
+
+
+                 Güvenlik
+              
+
+
+
+
+
+
+
+                 Blog
+              
+
+
+
+
+
+
+
+                 Marka Kaynakları
+              
+
+
+
+
+
+
+
+                 Kariyerler
+              
+
+
+
+
+
+
+
+                 Yatırımcılar
+              
+
+
+
+
+
+
+
+
+
+
+
+              İşletme
+
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 Twitter Reklamları Hakkında
+              
+
+
+
+
+
+
+
+                 Hedefleme
+              
+
+
+
+
+
+
+
+                 İstatistikler
+              
+
+
+
+
+
+
+
+                 Reklam desteği
+              
+
+
+
+
+
+
+
+                 İşletme blogu
+              
+
+
+
+
+
+
+
+                 Reklam Verme
+              
+
+
+
+
+
+
+
+
+
+
+
+              Geliştiriciler
+
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 Belgeler
+              
+
+
+
+
+
+
+
+                 Forumlar
+              
+
+
+
+
+
+
+
+                 Topluluklar
+              
+
+
+
+
+
+
+
+                 Geliştirici blogu
+              
+
+
+
+
+
+
+
+
+
+
+
+              Yardım Merkezi
+
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 Twitter Kullanma
+              
+
+
+
+
+
+
+
+                 Hesabınızı yönetme
+              
+
+
+
+
+
+
+
+                 Gizlilik ve güvenlik
+              
+
+
+
+
+
+
+
+                 Kurallar ve politikalar
+              
+
+
+
+
+
+
+
+                 Bize ulaşın
+              
+
+
+
+
+
+
+
+
+
+
+
+              Pazarlama
+
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                 Analizler
+              
+
+
+
+
+
+
+
+                 Başarı Hikayeleri
+              
+
+
+
+
+
+
+
+                 Çözümler
+              
+
+
+
+
+
+
+
+                 Koleksiyonlar
+              
+
+
+
+
+
+
+
+                 Pazarlama Blogu
+              
+
+
+
+
+
+
+
+                 Flight School
+              
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            © 2018 Twitter, Inc.
+          
+
+
+
+
+
+
+
+              Çerezler
+            
+
+
+
+
+
+
+
+              Gizlilik
+            
+
+
+
+
+
+
+
+              Şartlar ve Koşullar
+            
+
+
+
+
+
+
+
+
+
+    Türkçe 
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Yardım Merkezi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+              English
+            
+
+
+
+
+
+
+
+              Español
+            
+
+
+
+
+
+
+
+              한국어 
+            
+
+
+
+
+
+
+
+              Português 
+            
+
+
+
+
+
+
+
+              Deutsch 
+            
+
+
+
+
+
+
+
+              Türkçe 
+            
+
+
+
+
+
+
+
+              Français 
+            
+
+
+
+
+
+
+
+              Italiano 
+            
+
+
+
+
+
+
+
+              العربيّة
+            
+
+
+
+
+
+
+
+              Nederlands
+            
+
+
+
+
+
+
+
+              Bahasa Indonesia 
+            
+
+
+
+
+
+
+
+              Русский
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        {
+  "@context": "http://schema.org",
+  "@type": "WPFooter",
+  "isPartOf": "https://help.twitter.com/tr/using-twitter/twitter-sms"
+}
+  
+
+
+
+
+
+
+_satellite.pageBottom();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        {
+  "@context": "http://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": "https://help.twitter.com/tr/using-twitter/twitter-sms",
+  "name": "Kısa mesaj aracılığıyla Tweetleme",
+  "headline": "Kısa mesaj aracılığıyla Tweetleme",
+  "image": "https://help.twitter.com:80/content/dam/help-twitter/brand/logo.png",
+  "inLanguage": "tr",
+  "description": "Mobil cihazınızdan kısa mesaj aracılığıyla Tweetleme hakkında genel bir bakış edinin.",
+  "publisher": {
+    "@type": "Organization",
+    "parentOrganization": {
+      "@type": "Corporation",
+      "name": "Twitter, Inc.",
+      "tickerSymbol": "TWTR",
+      "url": "https://twitter.com"
+    },
+    "name": "Twitter Help Center",
+    "url": "https://help.twitter.com",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://help.twitter.com/content/dam/help-twitter/brand/logo.png",
+      "caption": "Twitter Logo"
+    }
+  },
+  "articleSection": "Twitter SMS support",
+  "datePublished": "2017-12-05",
+  "dateModified": "2017-12-05",
+  "author": {
+    "@type": "Organization",
+    "parentOrganization": {
+      "@type": "Corporation",
+      "name": "Twitter, Inc.",
+      "tickerSymbol": "TWTR",
+      "url": "https://twitter.com"
+    },
+    "name": "Twitter Help Center",
+    "url": "https://help.twitter.com",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://help.twitter.com/content/dam/help-twitter/brand/logo.png",
+      "caption": "Twitter Logo"
+    }
+  },
+  "isPartOf": {
+    "@type": "CollectionPage",
+    "name": "using-twitter",
+    "url": "https://help.twitter.com/tr/using-twitter",
+    "description": "Twitter SMS support"
+  },
+  "keywords": "twitter, help, support, twitter kısa mesaj, twitter sms, tweetlemek için mesaj atma "
+}
+
+
+
+
+
+
+>

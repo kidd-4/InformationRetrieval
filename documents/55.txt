@@ -1,0 +1,829 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+| Times Higher Education (THE)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"the_responsive","theme_token":"uScOZ3843fx7sF_1g31jEAKn54PbVNz8OerR0yYakac","js":{"sites\/default\/files\/minify\/jquery.once.1.2.min.js":1,"sites\/default\/files\/minify\/jquery.cookie.67fb34f6a866c40d0570.min.js":1,"sites\/default\/files\/minify\/notification.min.js":1,"sites\/default\/files\/minify\/scripts.min.js":1,"sites\/default\/files\/minify\/the-geography-extras.min.js":1,"sites\/default\/files\/minify\/most_viewed_commented.min.js":1,"sites\/default\/files\/minify\/paywall.min.js":1,"sites\/default\/files\/minify\/caption-filter.min.js":1,"sites\/default\/files\/minify\/the_dfp.min.js":1,"sites\/default\/files\/minify\/the_dmp_dynamic.min.js":1,"sites\/default\/files\/minify\/mz_analytics.min.js":1,"sites\/default\/files\/minify\/mz_events_the.min.js":1,"sites\/default\/files\/minify\/the_login_modal.min.js":1,"sites\/default\/themes\/custom\/the_responsive\/js\/search-form.js":1,"sites\/default\/files\/minify\/the_cache_control_new_relic.min.js":1,"sites\/default\/themes\/custom\/the_responsive\/js\/nav-main.js":1,"sites\/all\/libraries\/jssocials\/jssocials.min.js":1,"sites\/default\/themes\/custom\/the_responsive\/js\/social.js":1,"sites\/default\/files\/minify\/the_nag_footer.min.js":1,"sites\/default\/files\/minify\/chosen.1.1.0.min.js":1,"sites\/default\/themes\/custom\/the_responsive\/js\/hacks.js":1,"sites\/all\/themes\/contrib\/bootstrap\/js\/bootstrap.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/drupal.js":1,"sites\/all\/libraries\/chosen\/chosen.jquery.min.js":1,"sites\/all\/modules\/shared\/custom\/tes_subscriptions_support\/tes_subscription_support.js":1,"sites\/all\/modules\/shared\/custom\/tes_subscriptions_support\/includes\/mz_store_tracking.js":1,"sites\/all\/modules\/contrib\/hybridauth\/js\/hybridauth.modal.js":1,"sites\/all\/modules\/contrib\/hybridauth\/js\/hybridauth.onclick.js":1,"sites\/all\/libraries\/smartmenus\/jquery.smartmenus.min.js":1,"sites\/all\/libraries\/smartmenus\/addons\/bootstrap\/jquery.smartmenus.bootstrap.min.js":1,"sites\/all\/libraries\/readmore\/readmore.min.js":1,"sites\/default\/themes\/custom\/the_responsive\/js\/nav-sub.js":1,"sites\/all\/libraries\/bootstrap\/dist\/js\/bootstrap.min.js":1,"sites\/default\/themes\/custom\/the_responsive\/js\/global.js":1},"css":{"modules\/system\/system.base.css":1,"sites\/all\/libraries\/chosen\/chosen.css":1,"sites\/all\/modules\/contrib\/chosen\/css\/chosen-drupal.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/default\/modules\/custom\/the_most_viewed_commented\/css\/most_viewed_commented.css":1,"sites\/default\/modules\/custom\/the_user_restrictions\/css\/paywall_message.css":1,"sites\/all\/modules\/contrib\/workflow\/workflow_admin_ui\/workflow_admin_ui.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/caption_filter\/caption-filter.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/hybridauth\/plugins\/icon_pack\/hybridauth_32\/hybridauth_32.css":1,"sites\/all\/modules\/contrib\/hybridauth\/css\/hybridauth.css":1,"sites\/all\/modules\/contrib\/hybridauth\/css\/hybridauth.modal.css":1,"sites\/all\/modules\/contrib\/field_group\/field_group.field_ui.css":1,"sites\/all\/modules\/contrib\/node_embed\/plugins\/node_embed\/node_embed.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/component__login_modal.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/component__search_form.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/component__search_form_header.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/component__search_form_institution.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/component__search_form_keywords.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/component__search_form_page.css":1,"sites\/default\/modules\/custom\/the_nag_footer\/includes\/the_nag_footer.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/node_listing.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/node_listing_horizontal.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/node_listing_hover.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/node_student_seo.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/node_teaser.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/panels_panes.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/views_articles.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/panes.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/views_comments.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/views_globals.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/views_responsive_byline.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/views_stats_country.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/views_student_landing_articles.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/views_wur.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/component__the_methodology_pdf.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/header_banner.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/misc.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/store_cart.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/store_checkout.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/store_currency.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/store_header.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/store_landing.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/store_mypayments.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/store_myproducts.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/store_products.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/store_products_teaser.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/store_purchased_product.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/store_resubscribe_page.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/component__user_profile_form.css":1,"https:\/\/maxcdn.bootstrapcdn.com\/font-awesome\/4.4.0\/css\/font-awesome.min.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/vendor\/bootstrap-sass\/bootstrap_styles.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/vendor\/jssocial\/jssocial_styles.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/base__overrides_bootstrap.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/base__overrides_drupal.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/base__typography_extras.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/base__colours.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/component__nav_dropdown_menu.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/component__nav_header.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/component__nav_header_sticky.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/component__nav_share_buttons.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/component__nav_mobile.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/component__nav_user_login.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/component__footer.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/component__resubscribe.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/component__wur_lists_basket.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/component__wur_modal.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/component__wur_my_lists.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/component__wur_universities_list.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/element__adverts.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/element__title__large.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/element__title__medium.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/element__title__uppercase.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/element__title__teaser.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/element__title__important.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/element__headings.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/element__buttons.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/element__read_more.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/element__label.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/element__flags.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/element__video.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/element__article_image.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/layout__legacy_panes.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/layout__panel_regions.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/layout__main_container.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/page__legacy_user_profile.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/component__legacy_miscellaneous.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/component__legacy_views.css":1,"sites\/default\/themes\/custom\/the_responsive\/css\/styles\/component__legacy_taxomony_term_item.css":1}},"chosen":{"selector":"select:visible","minimum_single":20,"minimum_multiple":20,"minimum_width":200,"options":{"disable_search":false,"disable_search_threshold":0,"search_contains":true,"placeholder_text_multiple":"Choose some options","placeholder_text_single":"Choose an option","no_results_text":"No results match","inherit_select_classes":true}},"urlIsAjaxTrusted":{"\/store":true},"the_dfp":{"slots":[],"enable_debug":0},"push_server_url":"https:\/\/master-sjnovehijky32.eu.platform.sh","push_notifications_client_module_path":"sites\/all\/modules\/shared\/custom\/push_notifications_client","push_notifications_client_source":"the","push_notifications_client_safari_push_id":"web.com.timeshighereducation","push_server_api_token_endpoint":"api\/push_token","thenf":{"start":"400","min_width":"1080","restrict_roles":0,"roles":{"1":0,"2":0,"3":0,"4":0,"5":0,"6":0,"7":0,"30":0,"8":0,"13":0,"16":0,"10":0,"19":0,"25":0,"28":0,"36":0}},"mz_variables":{"mz_script":"https:\/\/duqxiy1o2cbw6.cloudfront.net\/tes\/mz\/427\/js\/mz.js","user_variables":{"id":0},"mz_domain":"","version_number":419,"admin_tracking":0},"bootstrap":{"anchorsFix":0,"anchorsSmoothScrolling":1,"popoverEnabled":1,"popoverOptions":{"animation":1,"html":0,"placement":"right","selector":"","trigger":"click","title":"","content":"","delay":0,"container":"body"},"tooltipEnabled":1,"tooltipOptions":{"animation":1,"html":0,"placement":"auto left","selector":"","trigger":"hover focus","delay":0,"container":"body"}}});
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Menu
+
+
+
+
+
+
+
+
+Times Higher Education (THE)
+
+
+
+
+
+
+
+
+Professional
+News
+
+
+Opinion
+
+
+Reader Comments
+
+
+Books
+
+
+Features
+
+
+Awards
+
+
+Digital Editions
+
+
+
+
+Jobs
+Find a job
+
+
+Jobs by email
+
+
+Search recruiters
+
+
+Careers advice
+
+
+
+
+Summits
+
+
+Rankings
+World University Rankings
+
+
+US College rankings
+
+
+Japan University Rankings
+
+
+By subject
+
+
+News
+
+
+About
+
+
+
+
+Student
+Best universities
+
+
+Where to study
+
+
+News
+
+
+Advice
+
+
+Blogs
+
+
+Find a University
+
+
+Subjects
+
+
+
+
+About Us
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+
+
+Please log in
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+or
+
+
+
+
+
+
+E-mail or username 
+*
+
+
+
+
+
+
+
+
+Password 
+*
+
+
+
+
+
+
+
+
+
+
+Log in
+
+
+ 
+
+
+
+
+
+
+Not a member yet?
+
+
+Join us for FREE
+
+
+Forgotten Password?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+Close
+
+
+
+
+Register now for free
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+or
+
+
+
+
+
+
+Choose your profile 
+*
+
+
+- Choose your profile type -
+Academic
+Student
+Parent
+University Administrator
+
+
+
+
+
+
+
+
+
+
+
+
+Email 
+*
+
+
+
+
+A valid e-mail address. All e-mails from the system will be sent to this address. The e-mail address is not made public and will only be used if you wish to receive a new password or wish to receive certain news or notifications by e-mail.
+
+
+
+
+
+
+Password 
+
+
+
+
+
+
+
+
+Username 
+*
+
+
+
+
+
+
+
+
+Newsletters 
+
+
+
+
+ 
+Higher education updates from the THE editorial team 
+
+
+
+
+
+
+ 
+World University Rankings news 
+
+
+
+
+
+
+ 
+If you do not wish to be contacted about offers, products or services from THE/TES Global then please check this box 
+
+
+
+
+
+
+
+
+Join us
+
+
+ 
+By registering, you agree to our 
+cookie policy
+ and 
+terms and
+            conditions
+.
+
+
+
+
+
+
+
+
+Already
+            have a THE account?
+
+
+Log in now
+
+
+
+
+
+
+
+
+
+
+
+
+Login
+
+
+Register
+
+
+Subscribe
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GO
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+$ AUD - Australia
+€ EUR - Europe
+£ GBP - United Kingdom
+$ USD - United States
+
+
+
+
+Save
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+THE Magazine
+THE delivers news, analysis and job opportunities for HE professionals. You can also access the World University Rankings, the definitive list of the world's best universities.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THE Digital Subscription
+
+
+
+
+Enjoy all of 
+THE
+’s news, features, comment and reviews – online and in the new 
+THE
+ app.
+
+
+This subscription includes:
+
+
+Access to the Digital replica magazine online
+
+
+Unlimited access to all 
+THE
+’s news, data and rankings content online         
+
+
+Full access to the 
+THE
+ app for iOS, Android and Kindle Fire devices
+
+
+
+
+
+
+£20.00
+
+
+
+
+
+
+
+
+Buy
+
+
+PER QUARTER
+
+
+
+
+
+
+
+
+THE Print & Digital Subscription
+
+
+
+
+Enjoy all of 
+THE
+’s thought-provoking news, features, comment and reviews – in print, online and via the newly upgraded 
+THE
+ app.
+
+
+This subscription includes:
+
+
+
+
+A copy of 
+THE
+ magazine delivered weekly        
+
+
+Digital replica version of the magazine to browse online
+
+
+Full access to news and rankings at timeshighereducation.com   
+
+
+Unrestricted access to the 
+THE
+ app for iOS, Android and Kindle Fire devices
+
+
+
+
+
+
+
+
+£35.00
+
+
+
+
+
+
+
+
+Buy
+
+
+PER QUARTER
+
+
+
+
+
+
+
+
+World University Rankings 2018
+
+
+
+
+Order your copy of the 2018 World University Rankings supplement, containing the full rankings results, in-depth
+ 
+analyses and commentaries.
+
+
+ 
+
+
+Price includes shipping. For bulk orders over 10 copies, please email 
+subscriptions.team@tesglobal.com
+
+
+
+
+£4.50
+
+
+
+
+
+
+
+
+Buy
+
+
+PER COPY
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Contact Us
+
+
+About Us
+
+
+Write for the THE
+
+
+Terms & Conditions
+
+
+Cookie Policy
+
+
+
+
+ 
+
+
+
+
+Subscribe
+If you like what you're reading online, why not take advantage of our subscription and get unlimited access to all of 
+Times Higher Education
+'s content?
+You'll get full access to our website, print and digital editions, and the 
+Times Higher Education
+ app for iOS, Android and Kindle Fire devices.
+Subscribe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"55613def96","applicationID":"16211203","transactionName":"Ml1TZBNTCkcCAkFaWAsXcFMVWwtaTBFUVFI6VVBeAFUBRjwRVFRSOl1JVQJHEFE=","queueTime":0,"applicationTime":564,"atts":"HhpQEltJGUk=","errorBeacon":"bam.nr-data.net","agent":""}
+
+
+>
